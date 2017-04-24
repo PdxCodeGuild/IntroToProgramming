@@ -28,9 +28,35 @@
 
 
 ##### Day One
-    - Install atom
-    - Install python `3.6+`
-    - Make Name Tents
+    1. Installs!
+      - Install atom
+      - Install python `3.6+`
+      - Make Name Tents
+      - Data Types `string`,`integer`,`float`,`list`,`dictionary`,`Boolean`
+
+    1. Shell Games
+        - using terminal, windows power shell
+        - command line
+        - [Official Docs](http://www.google.com)
+        - file hierarchy
+        - terminal games, Star Wars
+        - keyboard shortcuts  
+        - bash `$` vs. python terminal `>>>`
+
+
+    1. Hello World
+
+    1. Greeting
+        - python operators and data types
+        - `input` function
+        - `print` function
+        - [Official Doc] (https://docs.python.org/3/library/functions.html)
+        - writing a python file and executing
+
+    1. Mad Lib
+        - string formatting and substitution
+        - concatenation
+        - `f` strings
 
 
 ---------------
@@ -58,6 +84,11 @@
     - [Official Doc] (https://docs.python.org/3/library/functions.html)
     - writing a python file and executing
 
+1. Mad Lib
+    - string formatting and substitution
+    - concatenation
+    - `f` strings
+
 1. Bool Game
 
     - Boolean arithmetic
@@ -65,10 +96,7 @@
     - writing a python file and executing
 
 
-1. Mad Lib
-    - string formatting and substitution
-    - concatenation
-    - `f` strings
+
 
 
 1. Wall Painting
