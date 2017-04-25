@@ -29,6 +29,7 @@
 
 
 ##### Day One
+<<<<<<< HEAD
 
   __As students settle in__
   - Install Atom
@@ -51,6 +52,37 @@
 
 ##### Final Day
   - Distribute Exit Survey and kindly ask students to complete it.
+=======
+    1. Installs!
+      - Install atom
+      - Install python `3.6+`
+      - Make Name Tents
+      - Data Types `string`,`integer`,`float`,`list`,`dictionary`,`Boolean`
+
+    1. Shell Games
+        - using terminal, windows power shell
+        - command line
+        - [Official Docs](http://www.google.com)
+        - file hierarchy
+        - terminal games, Star Wars
+        - keyboard shortcuts  
+        - bash `$` vs. python terminal `>>>`
+
+
+    1. Hello World
+
+    1. Greeting
+        - python operators and data types
+        - `input` function
+        - `print` function
+        - [Official Doc] (https://docs.python.org/3/library/functions.html)
+        - writing a python file and executing
+
+    1. Mad Lib
+        - string formatting and substitution
+        - concatenation
+        - `f` strings
+>>>>>>> db05806a204ce8af5f29f9b7cd40e0f5cfddbf0c
 
 
 ---------------
@@ -79,6 +111,7 @@
     - `print` function
     - [Official Doc] (https://docs.python.org/3/library/functions.html)
     - Writing a python file and executing
+
 
 1. Bool Game
     - True / False
@@ -133,5 +166,5 @@
     - `.split()` string method to split a string into a list of Words
     - Cleaning the data with `.replace()`
     - For advanced students: `import string` and look at `string.ascii_lowercase`
-    - The advanced solution uses `sys.argv()` 
+    - The advanced solution uses `sys.argv()`
 ---------------
