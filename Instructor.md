@@ -29,7 +29,6 @@
 
 
 ##### Day One
-<<<<<<< HEAD
 
   __As students settle in__
   - Install Atom
