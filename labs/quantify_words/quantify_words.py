@@ -1,5 +1,5 @@
 """
-Write a function that quanitifies word occourances in a given string.
+Write a function that quanitifies word occurences in a given string.
 
 >>> quantify_words("Red touching black is a friend of Jack, Red touching yellow can kill a fellow.")
 a 2
