@@ -5,6 +5,7 @@
 # show that answer to the user
 
 
+# below are some sample answers
 '''
 It is certain
 It is decidedly so
