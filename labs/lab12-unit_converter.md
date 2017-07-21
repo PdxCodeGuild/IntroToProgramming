@@ -1,6 +1,4 @@
-# simpleunitconvert.py
-
-## Objective
+# Lab 12: Unit Converter
 
 Write a simple program that, when run, prompts the user for a number of miles,
 then prints the equivalent number of feet.

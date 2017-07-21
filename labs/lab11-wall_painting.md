@@ -1,4 +1,4 @@
-# Practice: Wall Painting
+# Lab 11: Wall Painting
 
 Create a new file `wall-painting.py`.
 
