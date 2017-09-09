@@ -19,5 +19,9 @@ Tell the user whether their guess is above ('too high!') or below ('too low!') t
 
 Tell the user whether their current guess is closer than their last.
 
+# Version 5
+
+Swap the user with the computer: the user will pick a number, and the computer will guess until they get it right.
+
 
 

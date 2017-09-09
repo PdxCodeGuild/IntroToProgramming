@@ -19,3 +19,8 @@ fruits = ['apple', 'banana', 'pineapple']
 fruit = random.choice(fruits)
 print(fruit)
 ```
+
+## Version 2
+
+Use a `while` loop to generate 5 emoticons.
+
