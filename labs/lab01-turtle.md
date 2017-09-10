@@ -7,7 +7,6 @@
 
 ## Explanation
 
-------------
 
 
 Turtle is a python `module` that allows us to move a virtual turtle around the screen using programming statements. This turtle has a position and a heading.
@@ -22,7 +21,7 @@ Turtle is a python `module` that allows us to move a virtual turtle around the s
 - `fillcolor(color_name)` sets the fill color, `begin_fill()` indicates you'd like to begin filling in whatever you draw, `end_fill()` actually fills the shape in
 
 ## Examples
-------------
+
 
 ### Drawing a Square 
 
@@ -156,7 +155,7 @@ done()
 ```
 
 
-## 8-Sided Spiral
+### 8-Sided Spiral
 
 ```python
 from turtle import *
@@ -178,7 +177,7 @@ done()
 
 ```
 
-## Expanding Star
+### Expanding Star
 
 ```python
 from turtle import *

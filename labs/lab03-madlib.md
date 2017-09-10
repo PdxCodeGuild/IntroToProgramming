@@ -1,6 +1,6 @@
 # Lab 3: Mad Libs
 
-Write a simple program that, when run, prompts the user for several inputs then
+Write a simple program that prompts the user for several inputs then
  prints a [Mad Lib](https://en.wikipedia.org/wiki/Mad_Libs) as the result.
 
 ## Instructions
@@ -29,7 +29,6 @@ Write a simple program that, when run, prompts the user for several inputs then
 >>> - Transform trilithium crystals into biochemical material.
 ```
 
--------
 
 ## Advanced
 * Make a functional solution that utilizes lists. For example, ask the user for 3 adjectives, separated by commas, then use the .split() function to store each adjective and later use it in your story.
@@ -37,13 +36,13 @@ Write a simple program that, when run, prompts the user for several inputs then
 
 
 ## Super Advanced
-* Not satisfied yet? Make it a repeatable game. Once you're done prompting the user for words, prompt them for whether they'd like to hear the story. Use a while loop to keep asking if they'd like to hear the story again until the answer is 'no'. You could then ask them if they'd like to make another story, and so on.
+* Make it a repeatable game. Once you're done prompting the user for words, prompt them for whether they'd like to hear the story. Use a while loop to keep asking if they'd like to hear the story again until the answer is 'no'. You could then ask them if they'd like to make another story, and so on.
 
 ------------
 
 ## Key Concepts
 
 - Variables
-- String formatting¹
+- String formatting
 - Handling user input
 

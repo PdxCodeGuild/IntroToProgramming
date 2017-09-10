@@ -10,7 +10,7 @@ Allow the user to enter the value of `n`.
 
 
 
-
+[//]: # (show them the 'string builder pattern', how a string is build one character at a time)
 
 
 

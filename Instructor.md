@@ -29,7 +29,6 @@
 
 
 ##### Day One
-<<<<<<< HEAD
 
   __As students settle in__
   - Install Atom
@@ -82,8 +81,6 @@
         - string formatting and substitution
         - concatenation
         - `f` strings
->>>>>>> db05806a204ce8af5f29f9b7cd40e0f5cfddbf0c
-
 
 ---------------
 
