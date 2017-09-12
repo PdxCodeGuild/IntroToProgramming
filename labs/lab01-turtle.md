@@ -11,7 +11,9 @@ Turtle is a python `module` that allows us to move a virtual turtle around the s
 
 - `setposition(x, y)` moves the turtle to the given position
 
-- `fillcolor(color_name)` sets the fill color, `begin_fill()` indicates you'd like to begin filling in whatever you draw, `end_fill()` actually fills the shape in. You can find more commands at https://docs.python.org/3.6/library/turtle.html
+- `fillcolor(color_name)` sets the fill color, `begin_fill()` indicates you'd like to begin filling in whatever you draw, `end_fill()` actually fills the shape in.
+
+You can find more commands at https://docs.python.org/3.6/library/turtle.html
 
 ## Examples
 
