@@ -16,4 +16,4 @@ Let's convert a number grade to a letter grade, using `if` and `elif` statements
 
 ## Version 2
 
-Use % to get the remainder of the grade when divided by ten, and use that number to decide whether they will get a '+' or a '-' appended to their grade.
+Use `%` to get the remainder of the grade when divided by ten, and use that number to decide whether they will get a `+` or a `-` appended to their grade.
