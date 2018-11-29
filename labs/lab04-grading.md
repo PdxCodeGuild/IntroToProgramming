@@ -16,4 +16,4 @@ Let's convert a number grade to a letter grade, using `if` and `elif` statements
 
 ## Version 2
 
-Use `%` to get the remainder of the grade when divided by ten, which is the same as the number in the ones digit. The number in the ones digit will determine whether they will get a `+` or a `-` appended to the end of their grade. For example, the grade `81` would be a 'B'. `81 % 10` would give you 1, which is a low number, so you would add a '-' to the end of the grade.
+Use `%` to get the remainder of the grade when divided by ten, which is the same as the number in the ones digit. The number in the ones digit will determine whether they will get a '+' or a '-' appended to the end of their grade. For example, the grade `81` would be a 'B'. `81 % 10` would give you 1, which is a low number, so you would add a '-' to the end of the grade.
