@@ -1,5 +1,5 @@
 
-# Lab 5: Grading
+# Lab 4: Grading
 
 Let's convert a number grade to a letter grade, using `if` and `elif` statements and comparisons.
 
@@ -16,4 +16,4 @@ Let's convert a number grade to a letter grade, using `if` and `elif` statements
 
 ## Version 2
 
-Use `%` to get the remainder of the grade when divided by ten, and use that number to decide whether they will get a `+` or a `-` appended to their grade.
+Use `%` to get the remainder of the grade when divided by ten, and use that number to decide whether they will get a `+` or a `-` appended to their grade. For example, the grade `81` would be a 'B'. `81 % 10` would give you 1, so you would add a '-' to the end of the grade.

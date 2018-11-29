@@ -1,5 +1,5 @@
 
-# Lab 4: Random Emoticon Generator
+# Lab 3: Random Emoticon Generator
 
 Let's generate emoticons by assembling a randomly choosing a set of eyes, a nose, and a mouth.
 
