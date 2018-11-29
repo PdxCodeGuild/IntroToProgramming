@@ -22,5 +22,5 @@ print(fruit)
 
 ## Version 2
 
-Use a `while` loop to generate 5 emoticons.
+Use a `for` loop to generate 5 emoticons.
 
