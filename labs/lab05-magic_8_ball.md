@@ -11,7 +11,7 @@ Let's write a program to simulate the classic "[Magic Eight Ball](https://en.wik
 5. Display the result of the 8 ball.
 
 
-## Advanced
+## Version 2
 
 - Ask the user if they want to ask another question, using a while loop
 
