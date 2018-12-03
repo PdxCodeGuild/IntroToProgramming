@@ -1,5 +1,5 @@
 
-# Lab 5: Rock Paper Scissors
+# Lab 6: Rock Paper Scissors
 
 Let's play rock-paper-scissors with the computer.
 
