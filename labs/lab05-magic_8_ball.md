@@ -1,4 +1,4 @@
-# Lab 6: Magic Ball
+# Lab 5: Magic Ball
 
 
 ## Instructions
