@@ -1,4 +1,4 @@
-# Lab 5: Magic Ball
+# Lab 3: Magic Ball
 
 
 ## Instructions
@@ -11,13 +11,12 @@ Let's write a program to simulate the classic "[Magic Eight Ball](https://en.wik
 5. Display the result of the 8 ball.
 
 
-## Version 2
+## Advanced version 1
 
-- Ask the user if they want to ask another question, using a while loop
+Let the user ask three times, using a while loop.
+
+## Advanced version 2
+
+- Ask the user if they want to ask another question, using a while loop.
 
 
-## Concepts
-
-- Event Loops
-- User I/O
-- Random Module
