@@ -11,3 +11,28 @@ Have the user enter the total number in pennies, e.g. for $1.36, the user will e
 
 Have the user enter a dollar amount (1.36), convert this to the total in pennies, and proceed as before.
 
+# Lab 8: Make Change
+
+## Version 3
+
+Let the user add their own custom coins.
+
+Hint: Use a list and sort
+
+>\>\>\> def get\_index\_two(in\_tuple):
+
+>...		return in\_tuple[2]
+
+>\>\>\> student\_tuples = [
+
+>...     ('john', 'A', 15),
+
+>...     ('jane', 'B', 12),
+
+>...     ('dave', 'B', 10),
+
+>... ]
+
+>\>\>\> sorted(student\_tuples, key=get\_index\_two)   # sort by age
+
+>[('dave', 'B', 10), ('jane', 'B', 12), ('john', 'A', 15)]
