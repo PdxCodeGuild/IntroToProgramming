@@ -6,7 +6,7 @@ Let's generate a password ten characters long using a loop (`while` loop or `for
 
 ## Advanced Version 1
 
-Allow the user to enter the value of `n`.
+Allow the user to choose how many characters the password will be.
 
 ## Advanced Version 2
 
