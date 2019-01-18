@@ -34,3 +34,7 @@ Hint: Use a list and sort
 >\>\>\> sorted(student\_tuples, key=get\_index\_two)   # sort by age
 
 >[('dave', 'B', 10), ('jane', 'B', 12), ('john', 'A', 15)]
+
+>\>\>\> sorted(student\_tuples, key=get\_index\_two, reverse=True)   # sort by age, reversed
+
+>[('john', 'A', 15), ('jane', 'B', 12), ('dave', 'B', 10)]
