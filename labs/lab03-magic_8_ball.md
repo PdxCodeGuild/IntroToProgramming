@@ -13,7 +13,7 @@ Let's write a program to simulate the classic "[Magic Eight Ball](https://en.wik
 
 ## Advanced version 1
 
-- Let the user ask three times, using a while loop.
+- Let the user choose if they want to ask a second question.
 
 ## Advanced version 2
 
