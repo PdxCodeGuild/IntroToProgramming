@@ -18,11 +18,11 @@ Let's list all the cases:
 - scissors vs paper
 - scissors vs scissors
 
-## Version 2
+## Advanced Version 1
 
 Ask the user if they want to play again, using a while loop.
 
-## Version 3
+## Advanced Version 2
 
 Use a dictionary where each key is one of the choices, and the value associated with the key is a list containing the two other choices.
 
