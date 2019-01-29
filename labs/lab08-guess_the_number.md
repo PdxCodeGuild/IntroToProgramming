@@ -5,7 +5,7 @@ Let's play 'Guess the Number', the computer will guess a random int between 1 an
 
 ## Advanced Version 1
 
-Using a `while` loop, allow the user to guess 10 times. If they fail to guess the number after 10 tries, the user is told they've lost.
+Tell the user whether their guess is above ('too high!') or below ('too low!') the target value.
 
 ## Advanced Version 2
 
@@ -13,7 +13,7 @@ Keep track of how many guesses the user has made, and tell them at the end.
 
 ## Advanced Version 3
 
-Tell the user whether their guess is above ('too high!') or below ('too low!') the target value.
+Using a `while` loop, allow the user to guess 10 times. If they fail to guess the number after 10 tries, the user is told they've lost.
 
 ## Advanced Version 4
 
