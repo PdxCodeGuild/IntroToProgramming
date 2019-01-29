@@ -9,7 +9,7 @@ Have the user enter the total number in pennies, e.g. for $1.36, the user will e
 
 ## Advanced Version 1
 
-Have the user enter a dollar amount (1.36), convert this to the total in pennies, and proceed as before.
+Have the user enter a dollar amount (1.36), convert this to the total in pennies, and proceed as before. Do this with `float()` and `round()`.
 
 ## Advanced Version 2
 
