@@ -1,4 +1,4 @@
-# Lab 3: Magic Ball
+# Lab 3: Magic 8 Ball
 
 
 ## Instructions
