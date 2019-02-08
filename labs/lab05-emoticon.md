@@ -26,7 +26,7 @@ Use a `for` loop to generate 5 emoticons.
 
 ## Advanced Version 2
 
-Give the user the option choose each part of the emoticon's face.
+Ask the user if they want to choose each part of the face. If they do, let the user choose that part of the face. If they don't, randomly generate that part.
 
 ## Advanced Version 3
 
