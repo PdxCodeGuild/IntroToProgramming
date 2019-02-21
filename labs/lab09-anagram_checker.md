@@ -6,7 +6,7 @@ Let's write an anagram checker.
 
 Two words are anagrams of each other if the letters of one can be rearranged to fit the other. e.g. `anagram` and `nag a ram`.
 
-Write another function `check_anagram` that takes two strings as parameters and returns True if they're anagrams of eachother, False if they're not. The procedure for comparing the two strings is as follow:
+Write a program that lets the user enter two strings, and tells them if they are anagrams of each other.
 
 1. Convert each word to lower case (`lower`)
 2. Remove all the spaces from each word by replacing them with empty strings (`replace`)
