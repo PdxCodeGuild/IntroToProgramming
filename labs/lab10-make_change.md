@@ -15,6 +15,11 @@ Have the user enter a dollar amount (1.36), convert this to the total in pennies
 
 In a while loop, let the user add or subtract a dollar amount to the current coin value, and then convert the resulting value into the smallest number of coins possible.
 
+>\>\>\> You have 5 quarters, 1 dimes, 0 nickles, 1 pennies
+>\>\>\> (add), (subtract), or (done) \>subtract
+>\>\>\> How much? >.37
+>\>\>\> You have 3 quarters, 2 dimes, 0 nickles, 4 pennies
+
 ## Super Advanced Version 1
 
 Let the user add their own custom coins.
