@@ -13,6 +13,10 @@ Have the user enter a dollar amount (1.36), convert this to the total in pennies
 
 ## Advanced Version 2
 
+In a while loop, let the user add or subtract a dollar amount to the current coin value, and then convert the resulting value into the smallest number of coins possible.
+
+## Super Advanced Version 1
+
 Let the user add their own custom coins.
 
 Hint: Use a list and sort
