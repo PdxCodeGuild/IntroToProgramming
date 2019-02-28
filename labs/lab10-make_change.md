@@ -17,7 +17,7 @@ In a while loop, let the user add or subtract a dollar amount to the current coi
 
 >\>\>\> You have 5 quarters, 1 dimes, 0 nickles, 1 pennies
 
->\>\>\> (add), (subtract), or (done) \>subtract
+>\>\>\> Choose (add), (subtract), or (done) \>subtract
 
 >\>\>\> How much? >.37
 
