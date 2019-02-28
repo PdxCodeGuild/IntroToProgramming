@@ -23,6 +23,8 @@ In a while loop, let the user add or subtract a dollar amount to the current coi
 
 >\>\>\> You have 3 quarters, 2 dimes, 0 nickles, 4 pennies
 
+>\>\>\> Choose (add), (subtract), or (done) \>done
+
 ## Super Advanced Version 1
 
 Let the user add their own custom coins.
