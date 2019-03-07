@@ -26,8 +26,18 @@ Use a `for` loop to generate 5 emoticons.
 
 ## Advanced Version 2
 
-Ask the user if they want to choose each part of the face. If they do, let the user choose that part of the face. If they don't, randomly generate that part.
+In a while loop, ask the user if they want another emoticon
 
 ## Advanced Version 3
 
-In a while loop, ask the user if they want another emoticon
+Ask the user if they want to choose each part of the face. If they do, let the user choose that part of the face. If they don't, randomly generate that part.
+
+## Advanced Version 4
+
+Let the user choose if they want to make one-line horizontal faces like `:-)`, one-line vertical faces like `o_O`, or multi-line vertical faces like:
+
+```python
+O O
+ |
+ ~
+```
