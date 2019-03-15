@@ -21,4 +21,4 @@ Write a program that lets the user enter two strings, and tells them if they are
 
 # Advanced Version 1
 
-Make your program able to handle capital letters and punctuation.
+Make your program ignore capital letters and punctuation.
