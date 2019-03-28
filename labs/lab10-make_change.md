@@ -5,6 +5,10 @@ Let's convert a dollar amount into a number of coins. The input will be the tota
 
 ## Version 1
 
+Have the user enter the total number in pennies, e.g. for $1.36, the user will enter 136. Then break that 136 into quarters (5) and pennies (11).
+
+## Version 2
+
 Have the user enter the total number in pennies, e.g. for $1.36, the user will enter 136. Then break that 136 into quarters (5), dimes (1), nickles (0) and pennies (1).
 
 ## Advanced Version 1
