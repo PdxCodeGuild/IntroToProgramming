@@ -10,7 +10,7 @@ Write a program that lets the user enter two strings, and tells them if they are
 
 1. Convert each word to lower case (`lower`)
 2. Remove all the spaces from each word by replacing them with empty strings (`replace`)
-3. Sort the letters of each word (`sorted`)
+3. Sort the letters of each word (`sort`)
 4. Check if the two are equal
 
 ```
@@ -22,3 +22,8 @@ Write a program that lets the user enter two strings, and tells them if they are
 # Advanced Version 1
 
 Make your program ignore capital letters and punctuation.
+
+# Advanced Version 2
+
+Let the user enter as many words as they choose. If every word is an anagram of every other word, let the user know.
+
