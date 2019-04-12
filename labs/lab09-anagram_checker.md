@@ -8,12 +8,13 @@ Two words are anagrams of each other if the letters of one can be rearranged to 
 
 Write a program that lets the user enter two strings, and tells them if they are anagrams of each other.
 
-1. Sort the letters of each word (`sort`)
-2. Check if the two are equal
+1. Convert the strings into lists (`list`)
+2. Sort the letters of each word (`sort`)
+3. Check if the two are equal
 
 ```
->>> enter the first word: Dormitory
->>> enter the second word: DirtyRoom
+>>> enter the first word: dormitory
+>>> enter the second word: dirtyroom
 >>> 'dormitory' and 'dirtyroom' are anagrams
 ```
 
