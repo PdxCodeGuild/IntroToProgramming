@@ -1,4 +1,4 @@
-# Lab 09: Anagram Checker
+# Lab 10: Anagram Checker
 
 Let's write an anagram checker.
 
