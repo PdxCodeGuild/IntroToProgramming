@@ -1,15 +1,14 @@
-
 # Lab 09: Make Change
 
-Let's convert a dollar amount into a number of coins. The input will be the total amount, the output will be the number of quarters, dimes, nickles, and pennies. Always break the total into the highest coin value first, resulting in the fewest amount of coins. For this, you'll have to use floor division `//`, which throws away the remainder. `10/3` is `3.333333`, `10//3` is `3`.
+Let the user enter how many pennies they have, and convert their pennies into larger coins and leftover pennies.
 
 ## Version 1
 
-Have the user enter the total number in pennies, e.g. for $1.36, the user will enter 136. Then break that 136 into quarters (5) and pennies (11).
+Convert the user's pennies into the maximum number of quarters. For example, if the user enters 136, break that 136 into quarters (5) and pennies (11).
 
 ## Version 2
 
-Have the user enter the total number in pennies, e.g. for $1.36, the user will enter 136. Then break that 136 into quarters (5), dimes (1), nickles (0) and pennies (1).
+Convert the user's pennies into the maximum number of quarters, then the maximum number of dimes, then the maximum number of nickels. Have the user enter the total number in pennies. For example, break 136 into quarters (5), dimes (1), nickles (0) and pennies (1).
 
 ## Advanced Version 1
 
