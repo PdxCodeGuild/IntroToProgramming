@@ -25,7 +25,7 @@ Write a program that lets the user enter two strings, and tells them if they are
 
 # Advanced Version 2
 
-Make your program ignore capital letters and punctuation.
+Make your program ignore punctuation when checking anagrams.
 
 # Advanced Version 3
 
