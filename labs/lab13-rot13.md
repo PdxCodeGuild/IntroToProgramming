@@ -4,7 +4,7 @@ Allow the user to choose to enter a letter or a number. If they enter a letter, 
 
 ## Advanced Version 1
 
-Write a program that prompts the user for a string, and encodes it with ROT13. For each character, find the corresponding character, add it to an output string. Notice that there are 26 letters in the English language, so encryption is the same as decryption.
+Write a program that prompts the user for a character, and encodes it with ROT13. Notice that there are 26 letters in the English language, so encryption is the same as decryption.
 
 Hint: Keep numbers in the 0 through 25 range using `%`.
 
@@ -16,5 +16,9 @@ Hint: Keep numbers in the 0 through 25 range using `%`.
 
 
 ## Advanced Version 2
+
+Let the user type a string, and encode that string. For each character, find the corresponding character, add it to an output string.
+
+## Advanced Version 3
 
 Allow the user to input the amount of rotation used in the encryption / decryption.
