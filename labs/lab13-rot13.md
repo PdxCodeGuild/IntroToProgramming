@@ -1,6 +1,6 @@
 # Lab 13: Encode/ROT
 
-Allow the user to choose to enter a letter or a number. If they enter a letter, give them the corresponding number between 1 and 26. If they give a number between 1 and 26, give them the corresponding letter. You can do this using a list of letters, and the `index` method.
+Allow the user to choose to enter a letter or a number. If they enter a letter, give them the corresponding number between 1 and 26. If they give a number between 1 and 26, give them the corresponding letter. You can do this using a list of the alphabet, and the `index` method.
 
 ## Advanced Version 1
 
