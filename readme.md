@@ -27,16 +27,16 @@ If you'd like to prep for the Intro course, I recommend the following:
   - single & multi line
 - [print()](https://www.w3schools.com/python/python_strings.asp)
 
-Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md)
+Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md) (First lesson only)
 
 ### Concepts
 
 - [Datatype: strings](https://www.py4e.com/html3/06-strings)
 - [variables](https://www.w3schools.com/python/python_variables.asp)
-- concatenating
-- fstrings
+- [concatenating](https://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python)
+- [fstrings](https://realpython.com/python-f-strings/#simple-syntax)
 
-Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md) (continued)
+Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md) (Advance 1 & 2)
 
 ### Concepts
 - input()
