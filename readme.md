@@ -1,5 +1,7 @@
 # Intro to Programming
 
+**Distance Learning**: For those taking Intro to Programming remotely, please click [here](distance.md).
+
 ## Quick Links
 - [Intro to Programming on Slack](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1)
   - for enrolled students only
