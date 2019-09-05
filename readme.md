@@ -5,6 +5,7 @@
 ## Quick Links
 - [Intro to Programming on Slack](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1)
   - for enrolled students only
+  - [directions on how to use slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/slack.md)
 - [Labs](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/labs)
 - [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
   - online debugging Tool
@@ -15,6 +16,7 @@ Welcome to Intro to Programming! Before we get started, make sure you have the f
 - [Atom](https://atom.io/)
 
 If you'd like to prep for the Intro course, I recommend the following:
+- Read up on our communication tool, [Slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/slack.md)
 - [Command Line Crash Course](https://learnrubythehardway.org/book/appendixa.html)
   - macOS, Linux & Windows
   - Do: Introduction and Exercises 1-6
