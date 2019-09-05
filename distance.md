@@ -14,6 +14,35 @@ To join the video conference, please click on this link: https://meet.google.com
 You should be able to join with a headset on your laptop/computer. Alternatively, you can dial in:
 - dial +1 559-854-1449 and enter this PIN: 868 122 373#
 
-Some helpful tips:
+## Some helpful tips
 - mute mic when joining to minimize static
 - disable camera for privacy
+  - To disable both, click on the microphone and camera button.
+
+![alt text](/resources/google-meet-mute.png)
+
+- configure layout to **Spotlight** to maximize screen share
+  - Click on the menu in the bottom right hand corner
+  - Then select the menu option **Change layout**
+  - Lastly, choose the **Spotlight** option
+
+![alt text](/resources/google-meet-layout.png)
+
+![alt text](/resources/google-meet-spotlight.png)
+
+## Support
+
+### During Class
+If you find that you have a question when class **is in session**, please use the **Google Meet Chat** function. That way if someone else has the same question, the TA can answer it for everyone!
+
+- To initiate the chatroom, click on the **chat button** in the middle in the top right corner.
+
+- Then ask away! Don't be shy. Chances are, everyone is wondering the same thing.
+
+![alt text](/resources/google-meet-chat.png)
+
+![alt text](/resources/google-meet-chat2.png)
+
+### Outside of Class
+
+If you find that you have a question when class **is not** in session, please use Slack to message Al Burns with any questions. [Please see this doc on how to use Slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/slack.md).
