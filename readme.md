@@ -10,7 +10,16 @@
 - [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
   - online debugging Tool
 
-## Day 00
+## Table of Contents
+- [Day 00](#day-00)
+- [Day 01](#day-01)
+- [Day 02](#day-02)
+- [Day 03](#day-03)
+- [Day 04](#day-04)
+- [Day 05](#day-05)
+- [Day 06](#day-06)
+
+## <a id="day-00"></a>Day 00
 Welcome to Intro to Programming! Before we get started, make sure you have the following downloaded:
 -  [latest version of Python](https://www.python.org/downloads/)
 - [Atom](https://atom.io/)
@@ -24,7 +33,7 @@ If you'd like to prep for the Intro course, I recommend the following:
   - mac
   - Do: Unit 1
 
-## Day 01
+## <a id="day-01"></a>Day 01
 
 ### Concepts
 - [comments](https://www.w3schools.com/python/python_comments.asp)
