@@ -2,7 +2,7 @@
 
 **Distance Learning**: For those taking Intro to Programming remotely, please click [here](distance.md).
 
-## Quick Links
+## <a id="top"></a>Quick Links
 - [Intro to Programming on Slack](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1)
   - for enrolled students only
   - [directions on how to use slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/slack.md)
@@ -33,6 +33,8 @@ If you'd like to prep for the Intro course, I recommend the following:
   - mac
   - Do: Unit 1
 
+[Back to top](#top)
+
 ## <a id="day-01"></a>Day 01
 
 ### Concepts
@@ -56,7 +58,10 @@ Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/l
 
 Lab 02: [Mad Libs](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md)
 
+[Back to top](#top)
+
 ## <a id="day-02"></a>Day 02
+
 ### Concepts
 - Datatype: Lists
 - modules
@@ -70,6 +75,8 @@ Lab 03: [Magic 8 Ball](https://github.com/PdxCodeGuild/IntroToProgramming/blob/m
 - [Conditions and If statements](https://www.w3schools.com/python/python_conditions.asp)
 
 Lab 04: [Grading](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab04-grading.md)
+
+[Back to top](#top)
 
 ## <a id="day-03"></a>Day 03
 
