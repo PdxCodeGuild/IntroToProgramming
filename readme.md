@@ -90,6 +90,8 @@ Lab 05: [Emoticon](https://github.com/PdxCodeGuild/IntroToProgramming/blob/maste
 
 Lab 06: [Rock Paper Scissors](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab06-rock_paper_scissors.md)
 
+[Back to top](#top)
+
 ## <a id="day-04"></a>Day 04
 ### Concepts
 - [String Module](https://docs.python.org/2/library/string.html#module-string)
@@ -98,11 +100,15 @@ Lab 07: [Password Generator](https://github.com/PdxCodeGuild/IntroToProgramming/
 
 Lab 08: [Guess the Number](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab08-guess_the_number.md)
 
+[Back to top](#top)
+
 ## <a id="day-05"></a>Day 05
 ### Concepts
 - [Dictionaries](https://www.w3schools.com/python/python_dictionaries.asp)
 
 Lab 09: [Make Change](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab09-make_change.md)
+
+[Back to top](#top)
 
 ## <a id="day-06"></a>Day 06
 ### Concepts
