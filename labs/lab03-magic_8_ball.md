@@ -1,5 +1,12 @@
 # Lab 3: Magic 8 Ball
 
+---
+Quicklinks
+- [Intro to Programming](https://github.com/PdxCodeGuild/IntroToProgramming)
+- [Labs](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/labs)
+- [Slack Channel](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1)
+- [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
+---
 
 ## Instructions
 
@@ -18,5 +25,3 @@ Let's write a program to simulate the classic "[Magic Eight Ball](https://en.wik
 ## Advanced version 2
 
 - Ask the user if they want to ask another question, using a while loop.
-
-

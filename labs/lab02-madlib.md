@@ -1,5 +1,11 @@
 # Lab 2: Mad Libs
-
+---
+Quicklinks
+- [Intro to Programming](https://github.com/PdxCodeGuild/IntroToProgramming)
+- [Labs](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/labs)
+- [Slack Channel](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1)
+- [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
+---
 Write a simple program that prompts the user for several inputs then
  prints a [Mad Lib](https://en.wikipedia.org/wiki/Mad_Libs) as the result.
 
@@ -45,4 +51,3 @@ Write a simple program that prompts the user for several inputs then
 - Variables
 - String formatting
 - Handling user input
-

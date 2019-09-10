@@ -1,5 +1,12 @@
 # Lab 00: Python Interpreter
 
+---
+Quicklinks
+- [Intro to Programming](https://github.com/PdxCodeGuild/IntroToProgramming)
+- [Labs](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/labs)
+- [Slack Channel](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1)
+- [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
+---
 You write your code in a text editor, like Atom or PyCharm, but then what happens? How does your laptop know what to do with it?
 
 Have no fear, the Python Interpreter is here! On your laptop, search for the program according to your system:
