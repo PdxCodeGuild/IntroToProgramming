@@ -46,3 +46,13 @@ If you find that you have a question when class **is in session**, please use th
 ### Outside of Class
 
 If you find that you have a question when class **is not** in session, please use Slack to message Al Burns with any questions. [Please see this doc on how to use Slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/slack.md).
+
+## Homework
+
+Homework should be turned in at the end of class via Slack ([Please see this doc on how to use Slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/slack.md)). If you need more time, the next day will be fine. Distance learners will send their homework via Slack direct message to Al:
+
+- Create a new direct message
+- search "Al"
+- his avatar is a cat playing the piano
+
+![alt text](/resources/slack-al.png)
