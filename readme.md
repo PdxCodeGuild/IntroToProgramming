@@ -56,7 +56,7 @@ Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/l
 
 Lab 02: [Mad Libs](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md)
 
-## Day 02
+## <a id="day-02"></a>Day 02
 ### Concepts
 - Datatype: Lists
 - modules
@@ -71,7 +71,7 @@ Lab 03: [Magic 8 Ball](https://github.com/PdxCodeGuild/IntroToProgramming/blob/m
 
 Lab 04: [Grading](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab04-grading.md)
 
-## Day 03
+## <a id="day-03"></a>Day 03
 
 ### Concepts
 - [concatenating](https://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python)
@@ -83,7 +83,7 @@ Lab 05: [Emoticon](https://github.com/PdxCodeGuild/IntroToProgramming/blob/maste
 
 Lab 06: [Rock Paper Scissors](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab06-rock_paper_scissors.md)
 
-## Day 04
+## <a id="day-04"></a>Day 04
 ### Concepts
 - [String Module](https://docs.python.org/2/library/string.html#module-string)
 
@@ -91,13 +91,13 @@ Lab 07: [Password Generator](https://github.com/PdxCodeGuild/IntroToProgramming/
 
 Lab 08: [Guess the Number](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab08-guess_the_number.md)
 
-## Day 05
+## <a id="day-05"></a>Day 05
 ### Concepts
 - [Dictionaries](https://www.w3schools.com/python/python_dictionaries.asp)
 
 Lab 09: [Make Change](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab09-make_change.md)
 
-## Day 06
+## <a id="day-06"></a>Day 06
 ### Concepts
 - [List Methods](https://www.w3schools.com/python/python_lists.asp)
   - See "List Methods" chart towards the end of the page
