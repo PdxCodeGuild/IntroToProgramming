@@ -9,6 +9,8 @@
 - [Labs](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/labs)
 - [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
   - online debugging Tool
+- [DiffChecker](https://www.diffchecker.com/)
+  - great tool to compare 2 files of code side by side
 
 ## Table of Contents
 - [Day 00](#day-00)
