@@ -7,6 +7,8 @@
   - for enrolled students only
   - [directions on how to use slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/slack.md)
 - [Labs](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/labs)
+- [Repl](https://repl.it)
+  - cloud based editor and interpreter
 - [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
   - online debugging Tool
 - [DiffChecker](https://www.diffchecker.com/)
