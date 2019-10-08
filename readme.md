@@ -67,8 +67,8 @@ Lab 02: [Mad Libs](https://github.com/PdxCodeGuild/IntroToProgramming/blob/maste
 ## <a id="day-02"></a>Day 02
 
 ### Concepts
-- Datatype: Lists
-- modules
+- [Datatype: Lists](https://www.tutorialspoint.com/python3/python_lists.htm)
+- Random Module
   - [random.choice()](https://www.w3schools.com/python/ref_random_choice.asp)
 
 Lab 03: [Magic 8 Ball](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab03-magic_8_ball.md)
