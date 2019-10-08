@@ -58,7 +58,7 @@ Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/l
 Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md) (Advance 1 & 2)
 
 ### Concepts
-- input()
+- [input()](https://www.w3schools.com/python/ref_func_input.asp)
 
 Lab 02: [Mad Libs](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab02-madlib.md)
 
