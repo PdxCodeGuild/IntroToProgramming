@@ -52,7 +52,7 @@ Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/l
 
 - [Datatype: strings](https://www.py4e.com/html3/06-strings)
 - [variables](https://www.w3schools.com/python/python_variables.asp)
-- [concatenating](https://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python)
+- [concatenating](https://realpython.com/python-string-split-concatenate-join/#concatenating-and-joining-strings)
 - [fstrings](https://realpython.com/python-f-strings/#simple-syntax)
 
 Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md) (Advance 1 & 2)
