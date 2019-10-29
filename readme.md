@@ -23,7 +23,7 @@
 
 ## <a id="day-00"></a>Day 00
 Welcome to Intro to Programming! Before we get started, make sure you have the following downloaded:
--  [latest version of Python](https://www.python.org/downloads/)
+- [latest version of Python](https://www.python.org/downloads/)
   - [Mac](https://www.py4e.com/software-mac.php)
   - [Windows](https://www.py4e.com/software-win.php)
   - Can't or don't want to install software on your computer? Check out [Repl.it](repl.it), [PythonAnywhere](https://www.pythonanywhere.com/), or [CodeAnywhere](https://codeanywhere.com/).
@@ -72,7 +72,7 @@ Welcome to Intro to Programming! Before we get started, make sure you have the f
 - [Datatype: Lists](https://www.py4e.com/html3/08-lists)
   - [slides](https://www.py4e.com/lectures3/Pythonlearn-08-Lists.pptx)
   - [video](https://www.youtube.com/watch?v=8DvywoWv6fI&t=13722s) (3:48:42 - 4:16:42)
- - [Conditional Execution](https://www.py4e.com/lessons/logic)
+- [Conditional Execution](https://www.py4e.com/lessons/logic)
   - [slides](https://www.py4e.com/lectures3/Pythonlearn-03-Conditional.pptx)
   - [videos](https://www.youtube.com/watch?v=8DvywoWv6fI&t=5160s) (1:26:00 - 1:39:13)
 
