@@ -95,14 +95,17 @@ Welcome to Intro to Programming! Before we get started, make sure you have the f
 ## <a id="day-03"></a>Day 03
 
 ### Concepts
-- [concatenating](https://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python)
+- [Loops & Iteration](https://www.py4e.com/html3/05-iterations)
+  - [slides](https://www.py4e.com/lectures3/Pythonlearn-05-Iterations.pptx)
+  - [video](https://www.youtube.com/watch?v=8DvywoWv6fI&t=8121s) (2:15:21 - 2:58:38)
 
-Lab 05: [Emoticon](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab05-emoticon.md)
+**Labs**
+- Lab 05: [Emoticon](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab05-emoticon.md)
+- Lab 06: [Rock Paper Scissors](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab06-rock_paper_scissors.md)
 
-### Concepts
+**Additional Resources**
 - [while loop](https://www.w3schools.com/python/python_while_loops.asp)
-
-Lab 06: [Rock Paper Scissors](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab06-rock_paper_scissors.md)
+- [concatenating](https://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python)
 
 [Back to top](#top)
 
