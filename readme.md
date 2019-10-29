@@ -33,7 +33,7 @@ Welcome to Intro to Programming! Before we get started, make sure you have the f
 - Read up on our communication tool, [Slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/slack.md)
 - [Why Programming?](https://www.py4e.com/html3/01-intro) (article)
   - [slides](https://www.py4e.com/lectures3/Pythonlearn-01-Intro.pptx)
-  - [video](https://www.youtube.com/watch?v=8DvywoWv6fI) (0:00:00 - 0:45:17)
+  - [video](https://www.youtube.com/watch?v=8DvywoWv6fI) (0:00:00 - 0:56:54)
 - [Command Line Crash Course](https://learnrubythehardway.org/book/appendixa.html)
   - macOS, Linux & Windows
   - Do: Introduction and Exercises 1-6
@@ -48,7 +48,7 @@ Welcome to Intro to Programming! Before we get started, make sure you have the f
 ### Concepts
 - [Variables, expressions, and statements](https://www.py4e.com/html3/02-variables)
   - [slides](https://www.py4e.com/lectures3/Pythonlearn-02-Expressions.pptx)
-  - [video](https://www.youtube.com/watch?v=8DvywoWv6fI&t=3415s)
+  - [video](https://www.youtube.com/watch?v=8DvywoWv6fI&t=3415s) (0:56:55 - 1:25:59)
 
 **Labs**
 - Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md)
@@ -71,10 +71,10 @@ Welcome to Intro to Programming! Before we get started, make sure you have the f
 ### Concepts
 - [Datatype: Lists](https://www.py4e.com/html3/08-lists)
   - [slides](https://www.py4e.com/lectures3/Pythonlearn-08-Lists.pptx)
-  - [video](https://www.youtube.com/watch?v=8DvywoWv6fI&t=13722s) (3:48:42 - 4:16:42)
+  - [video](https://www.youtube.com/watch?v=8DvywoWv6fI&t=13722s) (3:48:42 - 4:28:43)
 - [Conditional Execution](https://www.py4e.com/lessons/logic)
   - [slides](https://www.py4e.com/lectures3/Pythonlearn-03-Conditional.pptx)
-  - [videos](https://www.youtube.com/watch?v=8DvywoWv6fI&t=5160s) (1:26:00 - 1:39:13)
+  - [videos](https://www.youtube.com/watch?v=8DvywoWv6fI&t=5160s) (1:26:00 - 1:52:47)
 
 **Labs**
 - Lab 03: [Magic 8 Ball](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab03-magic_8_ball.md)
