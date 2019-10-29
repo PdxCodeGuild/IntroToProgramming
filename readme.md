@@ -29,7 +29,7 @@ Welcome to Intro to Programming! Before we get started, make sure you have the f
   - Can't or don't want to install software on your computer? Check out [Repl.it](repl.it), [PythonAnywhere](https://www.pythonanywhere.com/), or [CodeAnywhere](https://codeanywhere.com/).
 - [Atom](https://atom.io/)
 
-Intro Class Prep:
+**Intro Class Prep**
 - Read up on our communication tool, [Slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/slack.md)
 - [Why Programming?](https://www.py4e.com/html3/01-intro) (article)
   - [slides](https://www.py4e.com/lectures3/Pythonlearn-01-Intro.pptx)
@@ -50,11 +50,11 @@ Intro Class Prep:
   - [slides](https://www.py4e.com/lectures3/Pythonlearn-02-Expressions.pptx)
   - [video](https://www.youtube.com/watch?v=8DvywoWv6fI&t=3415s)
 
-Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md)
+**Labs**
+- Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md)
+- Lab 02: [Mad Libs](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab02-madlib.md)
 
-Lab 02: [Mad Libs](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab02-madlib.md)
-
-Additional Resources
+**Additional Resources**
 - [comments](https://www.w3schools.com/python/python_comments.asp)
   - single & multi line
 - [print()](https://www.w3schools.com/python/python_strings.asp)
@@ -69,18 +69,26 @@ Additional Resources
 ## <a id="day-02"></a>Day 02
 
 ### Concepts
+- [Datatype: Lists](https://www.py4e.com/html3/08-lists)
+  - [slides](https://www.py4e.com/lectures3/Pythonlearn-08-Lists.pptx)
+  - [video](https://www.youtube.com/watch?v=8DvywoWv6fI&t=13722s) (3:48:42 - 4:16:42)
+ - [Conditional Execution](https://www.py4e.com/lessons/logic)
+  - [slides](https://www.py4e.com/lectures3/Pythonlearn-03-Conditional.pptx)
+  - [videos](https://www.youtube.com/watch?v=8DvywoWv6fI&t=5160s) (1:26:00 - 1:39:13)
+
+**Labs**
+- Lab 03: [Magic 8 Ball](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab03-magic_8_ball.md)
+- Lab 04: [Grading](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab04-grading.md)
+
+**Additional Resources**
 - [Datatype: Lists](https://www.tutorialspoint.com/python3/python_lists.htm)
 - [Random Module](https://pynative.com/python-random-module/)
   - [random.choice()](https://www.w3schools.com/python/ref_random_choice.asp)
-
-Lab 03: [Magic 8 Ball](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab03-magic_8_ball.md)
-
-### Concepts
 - [Datatype: Integers](https://www.w3schools.com/python/python_numbers.asp)
 - [operators](https://www.w3schools.com/python/python_operators.asp)
 - [Conditions and If statements](https://www.w3schools.com/python/python_conditions.asp)
 
-Lab 04: [Grading](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab04-grading.md)
+
 
 [Back to top](#top)
 
