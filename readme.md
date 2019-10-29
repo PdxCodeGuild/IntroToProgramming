@@ -31,8 +31,11 @@ Welcome to Intro to Programming! Before we get started, make sure you have the f
   - Can't or don't want to install software on your computer? Check out [Repl.it](repl.it), [PythonAnywhere](https://www.pythonanywhere.com/), or [CodeAnywhere](https://codeanywhere.com/).
 - [Atom](https://atom.io/)
 
-If you'd like to prep for the Intro course, I recommend the following:
+Intro Class Prep:
 - Read up on our communication tool, [Slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/slack.md)
+- [Why Programming?](https://www.py4e.com/html3/01-intro) (article)
+  - [slides](https://www.py4e.com/lectures3/Pythonlearn-01-Intro.pptx)
+  - [video](https://www.youtube.com/watch?v=8DvywoWv6fI) (0:00:00 - 0:45:17)
 - [Command Line Crash Course](https://learnrubythehardway.org/book/appendixa.html)
   - macOS, Linux & Windows
   - Do: Introduction and Exercises 1-6
