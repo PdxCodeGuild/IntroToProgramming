@@ -26,6 +26,9 @@
 ## <a id="day-00"></a>Day 00
 Welcome to Intro to Programming! Before we get started, make sure you have the following downloaded:
 -  [latest version of Python](https://www.python.org/downloads/)
+  - [Mac](https://www.py4e.com/software-mac.php)
+  - [Windows](https://www.py4e.com/software-win.php)
+  - Can't or don't want to install software on your computer? Check out [Repl.it](repl.it), [PythonAnywhere](https://www.pythonanywhere.com/), or [CodeAnywhere](https://codeanywhere.com/).
 - [Atom](https://atom.io/)
 
 If you'd like to prep for the Intro course, I recommend the following:
