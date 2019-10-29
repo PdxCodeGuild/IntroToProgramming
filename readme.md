@@ -1,8 +1,6 @@
-# Intro to Programming
+# Intro to Programming <a id="top"></a>
 
-**Distance Learning**: For those taking Intro to Programming remotely, please click [here](distance.md).
-
-## <a id="top"></a>Quick Links
+## Quick Links
 - [Intro to Programming on Slack](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1)
   - for enrolled students only
   - [directions on how to use slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/slack.md)
@@ -48,25 +46,22 @@ Intro Class Prep:
 ## <a id="day-01"></a>Day 01
 
 ### Concepts
+- [Variables, expressions, and statements](https://www.py4e.com/html3/02-variables)
+  - [slides](https://www.py4e.com/lectures3/Pythonlearn-02-Expressions.pptx)
+  - [video](https://www.youtube.com/watch?v=8DvywoWv6fI&t=3415s)
+
+Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md)
+Lab 02: [Mad Libs](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab02-madlib.md)
+
+Additional Resources
 - [comments](https://www.w3schools.com/python/python_comments.asp)
   - single & multi line
 - [print()](https://www.w3schools.com/python/python_strings.asp)
-
-Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md) (First lesson only)
-
-### Concepts
-
 - [Datatype: strings](https://www.py4e.com/html3/06-strings)
 - [variables](https://www.w3schools.com/python/python_variables.asp)
 - [concatenating](https://realpython.com/python-string-split-concatenate-join/#concatenating-and-joining-strings)
 - [fstrings](https://realpython.com/python-f-strings/#simple-syntax)
-
-Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md) (Advance 1 & 2)
-
-### Concepts
 - [input()](https://www.w3schools.com/python/ref_func_input.asp)
-
-Lab 02: [Mad Libs](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab02-madlib.md)
 
 [Back to top](#top)
 
