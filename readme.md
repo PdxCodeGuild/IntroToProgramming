@@ -51,6 +51,7 @@ Intro Class Prep:
   - [video](https://www.youtube.com/watch?v=8DvywoWv6fI&t=3415s)
 
 Lab 01: [Hello](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md)
+
 Lab 02: [Mad Libs](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab02-madlib.md)
 
 Additional Resources
