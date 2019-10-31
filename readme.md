@@ -10,7 +10,8 @@
 - [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
   - online debugging Tool
 - [DiffChecker](https://www.diffchecker.com/)
-  - great tool to compare 2 files of code side by side
+  - great tool to compare 2 files of code side by sideR
+- [Additional Resources for Learning](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/resources.md)
 
 ## Table of Contents
 - [Day 00](#day-00)
