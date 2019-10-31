@@ -17,7 +17,7 @@ Command Line tutorials
 - This is what I used when I first started learning Python
 
 
-Python for Everybody by Freecodecamp ([video](https://www.freecodecamp.org/news/python-for-everybody/))
+Python for Everybody by Freecodecamp ([video](https://www.youtube.com/watch?v=8DvywoWv6fI))
 - Freecodecamp is a great resource for web development
 
 
