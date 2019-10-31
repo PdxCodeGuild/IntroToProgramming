@@ -128,6 +128,10 @@ Lab 09: [Make Change](https://github.com/PdxCodeGuild/IntroToProgramming/blob/ma
 [Back to top](#top)
 
 ## <a id="day-06"></a>Day 06
+
+### You made it!
+- The last day of class is finally here! We hope you've enjoyed yourself! Please help us make Intro Class better by taking this [anonymous survey](https://forms.gle/V795JNC89odNDgG2A).
+
 ### Concepts
 - [List Methods](https://www.w3schools.com/python/python_lists.asp)
   - See "List Methods" chart towards the end of the page
