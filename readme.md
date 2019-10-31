@@ -144,6 +144,7 @@ Lab 09: [Make Change](https://github.com/PdxCodeGuild/IntroToProgramming/blob/ma
 
 **Additional Resources**
 - [Built-In Functions](https://youtu.be/8DvywoWv6fI?t=6776) (video)
+  - [Official Docs](https://docs.python.org/3/library/functions.html)
 - [Functions](https://www.w3schools.com/python/python_functions.asp)
 - [List Methods](https://www.w3schools.com/python/python_lists.asp)
   - See "List Methods" chart towards the end of the page
