@@ -130,7 +130,7 @@ Welcome to Intro to Programming! Before we get started, make sure you have the f
   - [video](https://youtu.be/8DvywoWv6fI)
 
 **Labs**
-Lab 09: [Make Change](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab09-make_change.md)
+- Lab 09: [Make Change](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab09-make_change.md)
 
 **Additional Resources**
 - [Dictionary Methods](https://www.w3schools.com/python/python_ref_dictionary.asp)
