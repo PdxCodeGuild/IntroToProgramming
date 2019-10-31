@@ -8,7 +8,7 @@
 ## Quick Links
 - [Intro to Programming on Slack](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1)
   - for enrolled students only
-  - [directions on how to use slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/slack.md)
+  - [directions on how to use slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/slack.md)
 - [Labs](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/labs)
 - [Repl](https://repl.it)
   - cloud based editor and interpreter
@@ -16,7 +16,7 @@
   - online debugging Tool
 - [DiffChecker](https://www.diffchecker.com/)
   - great tool to compare 2 files of code side by side
-- [Additional Resources for Learning](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/resources.md)
+- [Additional Resources for Learning](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/resources.md)
 
 ## <a id="day-00"></a>Day 00
 Welcome to Intro to Programming! Before we get started, make sure you have the following downloaded:
@@ -27,7 +27,7 @@ Welcome to Intro to Programming! Before we get started, make sure you have the f
 - [Atom](https://atom.io/)
 
 **Intro Class Prep**
-- Read up on our communication tool, [Slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/slack.md)
+- Read up on our communication tool, [Slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/slack.md)
 - [Why Programming?](https://www.py4e.com/html3/01-intro) (article)
   - [slides](https://www.py4e.com/lectures3/Pythonlearn-01-Intro.pptx)
   - [video](https://www.youtube.com/watch?v=8DvywoWv6fI) (0:00:00 - 0:56:54)
