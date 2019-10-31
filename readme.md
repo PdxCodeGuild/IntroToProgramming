@@ -82,7 +82,7 @@ Welcome to Intro to Programming! Before we get started, make sure you have the f
 - Lab 04: [Grading](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab04-grading.md)
 
 **Additional Resources**
-- [Datatype: Lists](https://www.tutorialspoint.com/python3/python_lists.htm)
+- [List Methods](https://www.w3schools.com/python/python_ref_list.asp)
 - [Random Module](https://pynative.com/python-random-module/)
   - [random.choice()](https://www.w3schools.com/python/ref_random_choice.asp)
 - [Datatype: Integers](https://www.w3schools.com/python/python_numbers.asp)
@@ -114,17 +114,26 @@ Welcome to Intro to Programming! Before we get started, make sure you have the f
 ### Concepts
 - [String Module](https://docs.python.org/2/library/string.html#module-string)
 
-Lab 07: [Password Generator](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab07-password_generator.md)
+**Labs**
+- Lab 07: [Password Generator](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab07-password_generator.md)
+- Lab 08: [Guess the Number](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab08-guess_the_number.md)
 
-Lab 08: [Guess the Number](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab08-guess_the_number.md)
+**Additional Resources**
+- [String Methods](https://www.w3schools.com/python/python_ref_string.asp)
 
 [Back to top](#top)
 
 ## <a id="day-05"></a>Day 05
 ### Concepts
-- [Dictionaries](https://www.w3schools.com/python/python_dictionaries.asp)
+- [Dictionaries](https://www.py4e.com/html3/09-dictionaries)
+  - [slides](https://www.py4e.com/lectures3/Pythonlearn-09-Dictionaries.pptx)
+  - [video](https://youtu.be/8DvywoWv6fI)
 
+**Labs**
 Lab 09: [Make Change](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab09-make_change.md)
+
+**Additional Resources**
+- [Dictionary Methods](https://www.w3schools.com/python/python_ref_dictionary.asp)
 
 [Back to top](#top)
 
