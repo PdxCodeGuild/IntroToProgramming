@@ -23,3 +23,6 @@ Python for Everybody by Freecodecamp ([video](https://www.freecodecamp.org/news/
 
 [Hackerrank](https://www.hackerrank.com/)
 - algorithm practice
+
+[Intro to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=learnpython_com&utm_campaign=learnpython_tutorials)
+- interactive learning
