@@ -134,10 +134,21 @@ Lab 09: [Make Change](https://github.com/PdxCodeGuild/IntroToProgramming/blob/ma
 - The last day of class is finally here! We hope you've enjoyed yourself! Please help us make Intro Class better by taking this [anonymous survey](https://forms.gle/V795JNC89odNDgG2A).
 
 ### Concepts
+- [Functions](https://www.py4e.com/html3/04-functions)
+  - [slides](https://www.py4e.com/lectures3/Pythonlearn-04-Functions.pptx)
+  - [video](https://youtu.be/8DvywoWv6fI)
+  
+**Labs**
+- Lab 10: [Anagram Checker](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab10-anagram_checker.md)
+- Lab 12: [Unit Converter](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab12-unit_converter.md)
+
+**Additional Resources**
+- [Built-In Functions](https://youtu.be/8DvywoWv6fI?t=6776) (video)
+- [Functions](https://www.w3schools.com/python/python_functions.asp)
 - [List Methods](https://www.w3schools.com/python/python_lists.asp)
   - See "List Methods" chart towards the end of the page
 
-Lab 10: [Anagram Checker](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab10-anagram_checker.md)
+
 
 ### Stretch
 - Lab 11: [Wall Painting](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab11-wall_painting.md)
