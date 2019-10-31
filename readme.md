@@ -140,7 +140,6 @@ Lab 09: [Make Change](https://github.com/PdxCodeGuild/IntroToProgramming/blob/ma
   
 **Labs**
 - Lab 10: [Anagram Checker](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab10-anagram_checker.md)
-- Lab 12: [Unit Converter](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab12-unit_converter.md)
 
 **Additional Resources**
 - [Built-In Functions](https://youtu.be/8DvywoWv6fI?t=6776) (video)
@@ -152,6 +151,6 @@ Lab 09: [Make Change](https://github.com/PdxCodeGuild/IntroToProgramming/blob/ma
 
 
 ### Stretch
-- Lab 11: [Wall Painting](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab11-wall_painting.md)
 - Lab 12: [Unit Converter](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab12-unit_converter.md)
+- Lab 11: [Wall Painting](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab11-wall_painting.md)
 - Lab 13: [Encode](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab13-rot13.md)
