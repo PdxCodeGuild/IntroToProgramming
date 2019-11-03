@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Day 00 - Intro Course Prep](#day-00)
 - [Week 1](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/week_1.md)
-- [Week 2](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/week_1.md)
+- [Week 2](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/week_2.md)
 
 ## Quick Links
 - [Intro to Programming on Slack](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1)
