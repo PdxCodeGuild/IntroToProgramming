@@ -9,7 +9,7 @@ Tell the user whether their guess is above ('too high!') or below ('too low!') t
 
 ## Advanced Version 2
 
-Keep track of how many guesses the user has made, and tell them at the end.
+Let them keep guessing in a while loop. Keep track of how many guesses the user has made, and tell them at the end.
 
 ## Advanced Version 3
 
