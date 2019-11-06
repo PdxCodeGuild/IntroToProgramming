@@ -6,10 +6,10 @@
 - [Week 2](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/week_2.md)
 
 ## Quick Links
-- [Intro to Programming on Slack](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1)
+- [Class Communication - Slack](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1)
   - for enrolled students only
   - [directions on how to use slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/slack.md)
-- [Labs](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/labs)
+- [All Labs](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/labs)
 - [Repl](https://repl.it)
   - cloud based editor and interpreter
 - [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
