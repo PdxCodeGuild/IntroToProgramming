@@ -1,5 +1,5 @@
 # Week 1 <a id="top"></a>
-[Back to Syllabus](https://github.com/PdxCodeGuild/IntroToProgramming)
+[Back to Syllabus](https://github.com/PdxCodeGuild/IntroToProgramming#top)
 
 ## Table of Contents
 - [Day 01](#day-01)
