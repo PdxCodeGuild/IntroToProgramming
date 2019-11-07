@@ -12,6 +12,7 @@
 - [All Labs](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/labs)
 - [Repl](https://repl.it)
   - cloud based editor and interpreter
+- [Debugging Errors](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/troubleshooting.md)
 - [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
   - online debugging Tool
 - [DiffChecker](https://www.diffchecker.com/)
