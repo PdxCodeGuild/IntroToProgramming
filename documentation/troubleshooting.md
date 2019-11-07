@@ -70,3 +70,8 @@ Traceback (most recent call last):
     print(x - y)
 TypeError: unsupported operand type(s) for -: 'int' and 'str'
 ```
+
+## Still Stuck?
+1. Run your code through [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
+- Python tutor will run your code line by line and show you what's really going on
+2. If you're still stuck, ask for help! Try a classmate or a teacher.
