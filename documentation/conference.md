@@ -1,4 +1,4 @@
-# Intro to Programming - Distance Learning
+# Intro to Programming - Conference Meetings
 
 **To qualify for Distance Learning, students must have the explicit approval from Sheri Dover.** If you're interested in Distance Learning, please email Sheri at [sheri@pdxcodeguild.com](sheri@pdxcodeguild.com).
 
