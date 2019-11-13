@@ -68,4 +68,6 @@
 - [while loop](https://www.w3schools.com/python/python_while_loops.asp)
 - [concatenating](https://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python)
 
+For more practice, check out [HackerRank](https://www.hackerrank.com/).
+
 [Back to top](#top)
