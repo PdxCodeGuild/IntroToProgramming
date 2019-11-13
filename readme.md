@@ -1,5 +1,7 @@
 # Intro to Programming <a id="top"></a>
 
+**Distance Learners**: Please read [this document](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/distance.md) before starting class.
+
 ## Table of Contents
 - [Day 00 - Intro Course Prep](#day-00)
 - [Week 1](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/week_1.md)
