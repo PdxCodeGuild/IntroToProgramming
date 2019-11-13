@@ -8,7 +8,7 @@
 
 ## <a id="day-04"></a>Day 04
 ### Concepts
-- [String Module](https://docs.python.org/2/library/string.html#module-string)
+- [String Module](https://docs.python.org/3.8/library/string.html#module-string)
 
 **Labs**
 - Lab 07: [Password Generator](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab07-password_generator.md)
