@@ -23,7 +23,7 @@ Twitch streams include audio but you might have an easier time listening with a 
 ## Some helpful tips
 - subscribe to get alerted when streams start
 
-![alt text](/resources/twitch_notifications.png)
+![alt text](/resources/twitch_notifications.PNG)
 
 ## Support
 
