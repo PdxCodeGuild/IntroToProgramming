@@ -1,8 +1,6 @@
 # Intro to Programming - Distance Learning
 
-****
 **To qualify for Distance Learning, students must have the explicit approval from Sheri Dover.** If you're interested in Distance Learning, please email Sheri at [sheri@pdxcodeguild.com](sheri@pdxcodeguild.com).
-****
 
 All students will be using the Intro to Programming [readMe](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/readme.md) as curriculum to the class. Below is more info for distance learners.
 
