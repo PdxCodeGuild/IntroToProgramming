@@ -16,6 +16,7 @@
 
 **Additional Resources**
 - [String Methods](https://www.w3schools.com/python/python_ref_string.asp)
+- For more practice, check out [HackerRank](https://www.hackerrank.com/).
 
 [Back to top](#top)
 
@@ -30,6 +31,7 @@
 
 **Additional Resources**
 - [Dictionary Methods](https://www.w3schools.com/python/python_ref_dictionary.asp)
+- For more practice, check out [HackerRank](https://www.hackerrank.com/).
 
 [Back to top](#top)
 
@@ -52,6 +54,7 @@
 - [Functions](https://www.w3schools.com/python/python_functions.asp)
 - [List Methods](https://www.w3schools.com/python/python_lists.asp)
   - See "List Methods" chart towards the end of the page
+ - For more practice, check out [HackerRank](https://www.hackerrank.com/).
 
 ### Stretch
 - Lab 12: [Unit Converter](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab12-unit_converter.md)
