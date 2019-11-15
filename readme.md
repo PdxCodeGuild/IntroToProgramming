@@ -11,12 +11,12 @@
 - [Class Communication - Slack](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1)
   - for enrolled students only
   - [directions on how to use slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/slack.md)
-- [All Labs](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/labs)
-- [Repl](https://repl.it)
-  - cloud based editor and interpreter
-- [Debugging Errors](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/troubleshooting.md)
+- [Command Prompt/Terminal/Powershell Cheatsheet](https://docs.google.com/spreadsheets/d/18WWrry7RI2zzJlTsUHQLCsElNjiVVuMGjowBKZ5DPH8/edit#gid=0)
+- [Stuck? Debugging Errors Guide](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/troubleshooting.md)
 - [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
   - online debugging Tool
+ - [Repl](https://repl.it)
+  - cloud based editor and interpreter
 - [DiffChecker](https://www.diffchecker.com/)
   - great tool to compare 2 files of code side by side
 - [Additional Resources for Learning](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/resources.md)
