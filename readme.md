@@ -35,11 +35,15 @@ Can't or don't want to install software on your computer? Check out [Repl.it](re
 
 
 ### Practice
-The terminal will be a vital tool for running our code. Get some practice by working through the introduction and exercises 1-6 of the [Command Line Crash Course](https://learnrubythehardway.org/book/appendixa.html).
+The terminal will be a vital tool for running our code. Complete [Lab 0](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md) to get a quick understanding of how the terminal works.
 
-### Putting it together
+#### Want a deeper dive?
 
-See how Atom and the terminal work together to run your python code by completing [Lab 0](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab00-interpreter.md).
+Get some additional practice by working through the introduction and exercises 1-6 of the [Command Line Crash Course](https://learnrubythehardway.org/book/appendixa.html).
+
+#### Putting it together
+
+On the first day of class, you will see how Atom and the terminal work together to run your python code. If you'd like to see for yourself, please see [Lab 1](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab00-interpreter.md)
 
 ### Lastly
 Read up on our communication tool, [Slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/slack.md). This is how the instructors will share notes and how you will turn in your labs. You will get an invite to Slack on the first day of class.
