@@ -3,9 +3,13 @@
 **Distance Learners**: Please read [this document](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/distance.md) before starting class.
 
 ## Table of Contents
-- [Intro Course Prep](#day-00)
-- [Week 1](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/week_1.md)
-- [Week 2](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/week_2.md)
+- [Intro Course Prep](#unit-0)
+- [Unit 01](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/units/unit_01.md)
+- [Unit 02](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/units/unit_02.md)
+- [Unit 03](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/units/unit_03.md)
+- [Unit 04](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/units/unit_04.md)
+- [Unit 05](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/units/unit_05.md)
+- [Unit 06](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/units/unit_06.md)
 
 ## Quick Links
 - [Class Communication - Slack](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1)
@@ -21,7 +25,7 @@
   - great tool to compare 2 files of code side by side
 - [Additional Resources for Learning](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/resources.md)
 
-## <a id="day-00"></a>Day 00
+## <a id="unit-0"></a>Unit 0
 Welcome to Intro to Programming! To have a successful start in the class, please prep for the class by doing the following:
 
 ### Download
