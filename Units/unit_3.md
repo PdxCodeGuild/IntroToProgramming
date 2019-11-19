@@ -1,4 +1,4 @@
-## <a id="day-03"></a>Day 03
+## <a id="top"></a>Unit 03
 [Back to Syllabus](https://github.com/PdxCodeGuild/IntroToProgramming#top)
 
 ## Table of Contents
