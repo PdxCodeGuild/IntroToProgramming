@@ -1,4 +1,4 @@
-## <a id="day-04"></a>Day 04
+## <a id="top"></a>Unit 04
 [Back to Syllabus](https://github.com/PdxCodeGuild/IntroToProgramming#top)
 
 ## Table of Contents
@@ -17,3 +17,4 @@ letters = string.ascii_letters
 print(letters)
 # outcome: 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
 ```
+[Back to top](#top)
