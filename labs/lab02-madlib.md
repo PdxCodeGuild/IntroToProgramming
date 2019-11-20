@@ -5,44 +5,32 @@ Quicklinks
 - [Labs](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/labs)
 - [Slack Channel](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1)
 - [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
----
-Write a simple program that prompts the user for several inputs then
+---Write a simple program that prompts the user for several inputs then
  prints a [Mad Lib](https://en.wikipedia.org/wiki/Mad_Libs) as the result.
 
-## Instructions
-
-1. Search the interwebs for an example Mad Lib
-2. Create a new file and save it as `madlib.py`
-3. Ask the user for each word you'll put in your Mad Lib
-4. Use an `fstring` to put each word into the Mad Lib
-
-## Example:
+ ## Instructions
+ 1. Search the interwebs for a quote that you like
+ 2. Create a new file and save it as `madlib.py`
+ 3. Ask the user for words to replace key words in the quote
+ 4. Use an `fstring` to put each word into the Mad Lib
 
 ```
->>> Give me an antonym for 'data': nonmaterial
->>> Tell me an adjective: Bearded
->>> Give me a sciency buzzword: half-stack
->>> A type of animal (plural): parrots
->>> Some Sciency thing: warp drive
->>> Another sciency thing: Trilithium crystals
->>> Sciency adjective: biochemical
-...
->>> Nonmaterial Scientist Job Description:
->>> Seeking a bearded engineer, able to work on half-stack projects with a team of parrots.
->>> Key responsibilities:
->>> - Extract patterns from non-material
->>> - Optimize warp drive
->>> - Transform trilithium crystals into biochemical material.
+>>> Give me a name: Ronald
+>>> Give me a place: The North Pole
+Ronald, I've a feeling we're not in The North Pole anymore.
+Original quote: Toto, I've a feeling we're not in Kansas anymore.
 ```
 
+## Advanced 1
 
-## Advanced
-* Make a functional solution that utilizes lists. For example, ask the user for 3 adjectives, separated by commas, then use the .split() function to store each adjective and later use it in your story.
-* Add randomness! Use the random module, rather than selecting which adjective goes where in the story.
+* Let the user choose between two movies
+* Using if conditionals, let the user play a Mad Lib based on a quote from the chosen movie
 
+## Super Advanced 1
 
-## Super Advanced
-* Make it a repeatable game. Once you're done prompting the user for words, prompt them for whether they'd like to hear the story. Use a while loop to keep asking if they'd like to hear the story again until the answer is 'no'. You could then ask them if they'd like to make another story, and so on.
+* For each type of word that the user enters (noun, verb, adverb, etc.) append it to a list
+* Shuffle the list
+* Apply the shuffled words to the Mad Lib
 
 ------------
 

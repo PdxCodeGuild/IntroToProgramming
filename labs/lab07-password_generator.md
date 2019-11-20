@@ -11,10 +11,3 @@ Allow the user to choose how many characters the password will be.
 ## Advanced Version 2
 
 Allow the user to choose how many letters, numbers, and punctuation characters they want in their password. Mix everything up using `list()`, `random.shuffle()`, and `''.join()`.
-
-[//]: # (show them the 'string builder pattern', how a string is build one character at a time)
-
-
-
-
-

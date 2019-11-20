@@ -29,5 +29,3 @@ Ask the user if they want to play again, using a while loop.
 ## Advanced Version 3
 
 Use a dictionary where each key is one of the choices, and the value associated with the key is a list containing the two other choices.
-
-[//]: # (instructor note: write the tie case, the first case, have them write the others using elif)
