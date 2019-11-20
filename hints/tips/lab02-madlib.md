@@ -35,13 +35,13 @@ You can visualize the variable `word` pointing at the string `"Hello there!"`
 Right now we're working with strings and variables. A string starts and end with quotes, and inside you can put text. Python will remember the string as long as a variable is pointing at it.
 
 ```
-1 >>> var1 = 'abc'
+(1) >>> var1 = 'abc'
 
-2 >>> 'def'
-  'def'
+(2) >>> 'def'
+    'def'
 
-3 >>> print(var1)
-  abc
+(3) >>> print(var1)
+    abc
 ```
 
 1. Make `var1` point at `abc`: `var1` -----> `'abc'`.
@@ -55,22 +55,22 @@ Right now we're working with strings and variables. A string starts and end with
 f-strings are strings that let you put variables and other expressions inside of them.
 
 ```
-1 >>> my_variable = "Hello there!"
+(1) >>> my_variable = "Hello there!"
 
-2 >>> print("Here is my message:" + my_variable)
-  Here is my message:Hello there!
+(2) >>> print("Here is my message:" + my_variable)
+    Here is my message:Hello there!
 
-3 >>> print("Here is my message: " + my_variable)
-  Here is my message: Hello there!
+(3) >>> print("Here is my message: " + my_variable)
+    Here is my message: Hello there!
 
-4 >>> print("Here is my message: {my_variable}")
-  Here is my message: {my_variable}
+(4) >>> print("Here is my message: {my_variable}")
+    Here is my message: {my_variable}
 
-5 >>> print(f"Here is my message: {'my_variable'}")
-  Here is my message: my_variable
+(5) >>> print(f"Here is my message: {'my_variable'}")
+    Here is my message: my_variable
 
-6 >>> print(f"Here is my message: {my_variable}")
-  Here is my message: Hello there!
+(6) >>> print(f"Here is my message: {my_variable}")
+    Here is my message: Hello there!
 ```
 
 1. We make the variable `my_variable` point at everything between the quotes (assign the variable to a string). You can visualize: `my_variable` -----> `"Hello there!"`
@@ -103,13 +103,13 @@ The maximum number is 9
 The easiest structure for understanding `input` is like this: Ask a question, allow the user to answer, and save the answer as a variable.
 
 ```
-1 >>> user_color = input("What is your favorite color? ")
-2 What is your favorite color? blue
+(1) >>> user_color = input("What is your favorite color? ")
+(2) What is your favorite color? blue
 
-3 >>> print(user_color)
-  blue
-  >>> print(type(user_color))
-  <class 'str'>
+(3) >>> print(user_color)
+    blue
+    >>> print(type(user_color))
+    <class 'str'>
 
 ```
 
@@ -119,36 +119,41 @@ The easiest structure for understanding `input` is like this: Ask a question, al
 
 3. Our variable is pointing at `"blue"`, which is a string.
 
-`input` is much easier to grasp when we are asking questions that make sense. In the next example, let's look at a situation where we use the rules of `input` in a more arbitrary way. To understand input, we're going to imagine input() disappearing and leaving behind a string version of what the user types.
+`input` is much easier to grasp when we are asking questions that make sense. In the next example, let's look at a situation where we use the rules of `input` in a more arbitrary way. To understand `input`, we're going to imagine `input` disappearing and leaving behind a string version of what the user types.
 
 ```
-1 >>> var1 = 'a' + 'b'
-2 >>> var2 = input(':') + 'd'
-  :c
-  >>> print(var1, var2)
-  ab cd
-3 >>> print('e' + 'f')
-  ef
-4 >>> print('g' + input(':'))
-  :h
-  gh
+(1) >>> var1 = 'a' + 'b'
+    >>> print(var1)
+    ab
+
+(2) >>> var2 = input(':') + 'd'
+    :c
+    >>> print(var2)
+    cd
+
+(3) >>> print('e' + 'f')
+    ef
+
+(4) >>> print('g' + input('after g is > '))
+    after g is > h
+    gh
 ```
 
-1. We add `'a'` and `'b'`. With strings, that means they get mushed together (concatenated). You can think of the addition as taking in `'a'` and taking in `'b'`, and then leaving behind `'ab'`. Later, we print out var1, and it prints out `ab`.
+1. We add `'a'` and `'b'`. With strings, that means they get mushed together (concatenated). You can think of the addition as taking in `'a'` and taking in `'b'`, and then leaving behind `'ab'`. We then print out var1, which is pointing at `ab`.
 
 2. This is similar to line 1, if we just imagine `'c'` instead of `input`. `input` prints out what is in the parentheses, which is the string `':'`, and we see that `:` gets printed out. The user type `c`, and so `input` does leave behind `'c'`.
 
 3. The first thing that happens is what's in the parentheses. We mush together two sets of quotes (concatenate two strings). In the process we lose `'e'` and `'f'`, and we gain `'ef'`. Then print prints out our `'ef'`. Because we don't tell a variable to point at `'ef'`, we lose it.
 
-4. This happens just like line 3, if we imagine 'h' instead of `input`. `input` prints out `:`, and the user types `h`, so when `input` finishes it leaves behind the string `'h'`.
+4. This happens just like line 3, if we imagine 'h' instead of `input`. `input` prints out `after g is > `, and the user types `h`, so when `input` finishes it leaves behind the string `'h'`.
 
 ## Example: Say Hi!
 
 ```
-1 >>> user_name = input("What is your name? ")
-  What is your name? Al
-2 >>> print(f"Hello, {user_name}!")
-  Hello, Al!
+(1) >>> user_name = input("What is your name? ")
+    What is your name? Al
+(2) >>> print(f"Hello, {user_name}!")
+    Hello, Al!
 ```
 
 1. `input` prints out the string, which prompts the user to type their name. The user types `Al`, so `input` leaves behind the string `'Al'`. We then tell the variable `user_name` to point at the string `'Al'` (assign the variable to the string).
