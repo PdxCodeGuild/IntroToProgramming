@@ -39,7 +39,7 @@ Can't or don't want to install software on your computer? Check out [Repl.it](re
 
 
 ### Practice
-The terminal will be a vital tool for running our code. Complete [Lab 0](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md) to get a quick understanding of how the terminal works.
+The terminal will be a vital tool for running our code. Complete [Lab 0](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab00-newfolder.md) to get a quick understanding of how the terminal works.
 
 #### Want a deeper dive?
 
