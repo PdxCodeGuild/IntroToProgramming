@@ -120,17 +120,18 @@ _10 min break_
 ---
 ### <a id="unit-04"></a>Unit 04
 
-#### Lab 05:
-- ?
-- ?
+#### Lecture
+- review week 1
 
-#### Lab 06:
-- ?
-
-_10 min break_
+#### Lab 05: modules, input(), if/else (45/mins)
+- help start lab. pseudo code `if/else` statement
 
 #### Lecture
-- ?
+- string module
+
+#### Lab 06: modules, concatenation
+- Teach independence: go over the official docs for the `String` module, show them the example in the syllabus and that's it
+- when they finish this, they can go back to Lab 05 - Grading
 
 ---
 ### <a id="unit-05"></a>Unit 05
