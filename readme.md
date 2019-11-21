@@ -3,7 +3,7 @@
 **Distance Learners**: Please read [this document](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/distance.md) before starting class.
 
 ## Table of Contents
-- [Intro Course Prep](#unit-0)
+- [Unit 00: Intro Course Prep](#unit-0)
 - [Unit 01](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/units/unit_01.md)
 - [Unit 02](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/units/unit_02.md)
 - [Unit 03](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/units/unit_03.md)
