@@ -1,5 +1,13 @@
 # Instructor Lesson Plan
 
+- [First Day](#first-day)
+- [Unit 01](#unit-01)
+- [Unit 02](#unit-02)
+- [Unit 03](#unit-03)
+- [Unit 04](#unit-04)
+- [Unit 05](#unit-05)
+- [Unit 06](#unit-06)
+
 ## Pre-Class
 Office Admin will:
 - Download student list from Eventbrite
@@ -15,7 +23,7 @@ Office Admin will:
 
 ## Daily Breakdown
 
-### First day
+### <a id="first-day"></a>First day
 
   _As students settle in_
   - Project [welcome screen](https://docs.google.com/presentation/d/1DJVMOWHDKvFyFq6Zm6-O6u8lMcEw90lCHsH-kb1yhKw/edit?usp=sharing)
@@ -36,7 +44,7 @@ Office Admin will:
     - Go over Syllabus
     - What is programming? Before we jump into programming, let's review the interpreter by doing Lab 0.
 
-### Unit 01
+### <a id="unit-01"></a>Unit 01
 
 #### Lab 0: Terminal Review
 
@@ -59,7 +67,7 @@ Important things to point out:
   - `fstrings` are the most efficient way but not the only way
   - `'''` triple quotes are for multi-line strings only (including comments)
 ---
-### Unit 02
+### <a id="unit-02"></a>Unit 02
 
 #### Pre-Class
 - update Salesforce with first day attendance
@@ -90,7 +98,7 @@ _10 min break_
 #### Lab 3: working with different datatypes, conversions, comparisons, conditional statements
 
 ---
-### Unit 03
+### <a id="unit-03"></a>Unit 03
 
 #### Lab 03: random module, creating & using a list, concatenation (15 mins)
 - warm up with this lab and use it as a review
@@ -110,19 +118,7 @@ _10 min break_
 - update Salesforce with the week's attendance
 - send "First Week Email"
 ---
-#### Unit 6 // Final Day
-  - Ask students to complete feedback form. Linked under Unit 6.
-
-#### Post Class
-  - update Salesforce with list of students who
-    - finished the course
-    - recommended for bootcamp
-    - recommended to retake intro
-    - not recommended for bootcamp
-  - send "Completion Email"
-
----------------
-### Unit 04
+### <a id="unit-04"></a>Unit 04
 
 #### Lab 05:
 - ?
@@ -137,7 +133,7 @@ _10 min break_
 - ?
 
 ---
-### Unit 05
+### <a id="unit-05"></a>Unit 05
 
 #### Lab 07:
 - ?
@@ -152,7 +148,7 @@ _10 min break_
 - ?
 
 ---
-### Unit 6 // Final Day
+### <a id="unit-06"></a>Unit 6 // Final Day
   - Ask students to complete feedback form. Linked under Unit 6.
 
 #### Post Class
