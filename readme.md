@@ -3,7 +3,7 @@
 **Distance Learners**: Please read [this document](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/distance.md) before starting class.
 
 ## Table of Contents
-- [Intro Course Prep](#unit-0)
+- [Unit 00: Intro Course Prep](#unit-0)
 - [Unit 01](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/units/unit_01.md)
 - [Unit 02](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/units/unit_02.md)
 - [Unit 03](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/units/unit_03.md)
@@ -39,7 +39,7 @@ Can't or don't want to install software on your computer? Check out [Repl.it](re
 
 
 ### Practice
-The terminal will be a vital tool for running our code. Complete [Lab 0](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab01-hello.md) to get a quick understanding of how the terminal works.
+The terminal will be a vital tool for running our code. Complete [Lab 0](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab00-newfolder.md) to get a quick understanding of how the terminal works.
 
 #### Want a deeper dive?
 
