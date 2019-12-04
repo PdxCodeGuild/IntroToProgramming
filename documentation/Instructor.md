@@ -1,89 +1,166 @@
-# Instructor Direction
+# Instructor Lesson Plan
 
-#### Scripts
+- [First Day](#first-day)
+- [Unit 01](#unit-01)
+- [Unit 02](#unit-02)
+- [Unit 03](#unit-03)
+- [Unit 04](#unit-04)
+- [Unit 05](#unit-05)
+- [Unit 06](#unit-06)
 
-1. Shell Games
-1. Greeting
-1. Bool Game
-1. Mad Lib
-1. Wall Painting
-1. Simple Unit Converter
+## Pre-Class
+Office Admin will:
+- Download student list from Eventbrite
+- Add student list to [Google doc](https://docs.google.com/spreadsheets/d/1k6GFdxUqs58cwzNePZDbZDrvtyr4Bew2MLwwMNBogcE/edit#gid=711686043)
+- Update Salesforce
 
--------------------------
-
-#### Functional
-
-1. Palindrome
-1. List Intro
-1. FizzBuzz
-1. Quantify Words (Final)
-
-------------------------
+## Required Equipment
+- laptop to teach and present from
+  - HDMI cords are provided in room 130 but always good to have backups
+- adapters for HDMI if needed
+- mic (provided)
+- power strips for students to charge laptops (provided)
 
 ## Daily Breakdown
 
-##### Day Zero
-    - Test A/V
-    - Set Up Shared Dropbox
-    - Install Jupyter Notebook
+### <a id="first-day"></a>First day
 
+  _As students settle in_
+  - Project [welcome screen](https://docs.google.com/presentation/d/1DJVMOWHDKvFyFq6Zm6-O6u8lMcEw90lCHsH-kb1yhKw/edit?usp=sharing)
+  - Write name and phone number on the whiteboard
+  - greet students as they come in
+  - maybe play some chill hop to kill the silence
 
-##### Day One
-
-  __As students settle in__
-  - Install Atom
-  - Install python `3.6+`
-  - Make Name Tents
-  - Put Name on whiteboard
-  - Put shortened link to materials on projector / whiteboard
-
-  __Begin Class__
-  - Ensure Installations were a success
+  _Begin Class_
   - Introduce Self and TA(s)
-  - Review course days and hours
-  - Review Parking Rules
-  - Review Code of Conduct
   - Provide Contact Information
-  - Invite Students to Slack
-  - Perform Ice Breaker Activity of Instructors Choice
+  - Go through welcome slides:
+    - Review course days and hours
+    - Review Parking Rules
+    - Review Code of Conduct
+    - Perform Ice Breaker Activity of Instructors Choice
+    - Ensure Installations were a success
+    - Slack invites and overview
+      - add everyone from [Google Doc](https://docs.google.com/spreadsheets/d/1k6GFdxUqs58cwzNePZDbZDrvtyr4Bew2MLwwMNBogcE/edit#gid=711686043) to Slack
+    - Go over Syllabus
+    - What is programming? Before we jump into programming, let's review the interpreter by doing Lab 0.
 
+### <a id="unit-01"></a>Unit 01
 
+#### Lab 0: Terminal Review
 
-##### Final Day
-  - Distribute Exit Survey and kindly ask students to complete it.
-=======
-    1. Installs!
-      - Install atom
-      - Install python `3.6+`
-      - Make Name Tents
-      - Data Types `string`,`integer`,`float`,`list`,`dictionary`,`Boolean`
+Important things to point out:
+  - file hierarchy
+  - bash `$` vs. python terminal `>>>`
 
-    1. Shell Games
-        - using terminal, windows power shell
-        - command line
-        - [Official Docs](http://www.google.com)
-        - file hierarchy
-        - terminal games, Star Wars
-        - keyboard shortcuts  
-        - bash `$` vs. python terminal `>>>`
+_10 min break_
 
+#### Lab 1: writing a python file and executing
+Important things to point out:
+  - Terminal path must be the same as the file you're executing
+  - different terminal commands for windows `py` and mac `python3`
 
-    1. Hello World
+_10 min break_
 
-    1. Greeting
-        - python operators and data types
-        - `input` function
-        - `print` function
-        - [Official Doc] (https://docs.python.org/3/library/functions.html)
-        - writing a python file and executing
+#### Lab 2: Handling inputs and formatting strings.
+Important things to point out:
+  - must save the result of `input()` if you plan to use it later
+  - `fstrings` are the most efficient way but not the only way
+  - `'''` triple quotes are for multi-line strings only (including comments)
+---
+### <a id="unit-02"></a>Unit 02
 
-    1. Mad Lib
-        - string formatting and substitution
-        - concatenation
-        - `f` strings
+#### Pre-Class
+- update Salesforce with first day attendance
+- send "First Day Email"
+- remove no-shows from [Google doc](https://docs.google.com/spreadsheets/d/1k6GFdxUqs58cwzNePZDbZDrvtyr4Bew2MLwwMNBogcE/edit#gid=711686043)
 
----------------
+### In class
 
+#### Lecture
+- review Unit 1 using `random_student.py`
+- introduce datatypes
+  - Data Types `string`,`integer`,`float`,`list`,`dictionary`,`Boolean`
+  - We used `string` yesterday. Today we'll focus on `lists`
+- introduce modules
+
+#### Lab 2: modules & Lists
+
+_10 min break_
+
+#### Lecture
+- introduce Datatype `integers` and `floats`
+  - introduce Python Arithmetic Operators
+  - `int()` function
+- introduce if/else statements
+  - introduce Python Comparison Operators
+- comparison operators
+
+#### Lab 3: working with different datatypes, conversions, comparisons, conditional statements
+
+---
+### <a id="unit-03"></a>Unit 03
+
+#### Lab 03: random module, creating & using a list, concatenation (15 mins)
+- warm up with this lab and use it as a review
+- start the file with them: new file, set up/organize code,
+
+#### Lab 04: random module, creating & using a list, comparisons, conditional statements (30 mins)
+- start the file with them: new file, set up/organize code, welcome msg, user input, computer choice
+
+_10 min break_
+
+#### Lecture
+- all the loops
+
+#### Lab 03 & Lab 04: advance
+
+#### Post Class
+- update Salesforce with the week's attendance
+- send "First Week Email"
+---
+### <a id="unit-04"></a>Unit 04
+
+#### Lecture
+- review week 1
+
+#### Lab 05: modules, input(), if/else (45/mins)
+- help start lab. pseudo code `if/else` statement
+
+#### Lecture
+- string module
+
+#### Lab 06: modules, concatenation
+- Teach independence: go over the official docs for the `String` module, show them the example in the syllabus and that's it
+- when they finish this, they can go back to Lab 05 - Grading
+
+---
+### <a id="unit-05"></a>Unit 05
+
+#### Lab 07:
+- ?
+- ?
+
+#### Lab 08:
+- ?
+
+_10 min break_
+
+#### Lecture
+- ?
+
+---
+### <a id="unit-06"></a>Unit 6 // Final Day
+  - Ask students to complete feedback form. Linked under Unit 6.
+
+#### Post Class
+  - update Salesforce with list of students who
+    - finished the course
+    - recommended for bootcamp
+    - recommended to retake intro
+    - not recommended for bootcamp
+  - send "Completion Email"
+---
 ## Lab Talking Points
 
 #### Scripts
@@ -127,7 +204,7 @@
 
 1. Wall Painting
     - Collecting multiple users inputs
-    - Area Colculations
+    - Area Calculations
     - For Advanced Users: For Loops over a `range()`
 
 1. Simple Unit Converter
