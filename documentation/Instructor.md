@@ -41,6 +41,7 @@ Office Admin will:
     - Perform Ice Breaker Activity of Instructors Choice
     - Ensure Installations were a success
     - Slack invites and overview
+      - add everyone from [Google Doc](https://docs.google.com/spreadsheets/d/1k6GFdxUqs58cwzNePZDbZDrvtyr4Bew2MLwwMNBogcE/edit#gid=711686043) to Slack
     - Go over Syllabus
     - What is programming? Before we jump into programming, let's review the interpreter by doing Lab 0.
 
