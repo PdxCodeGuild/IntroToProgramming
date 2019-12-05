@@ -59,6 +59,7 @@ Let's practice random.choice() in the next lab.
 - Complete [Exercise 3](https://learnpythonthehardway.org/python3/ex3.html) of Learn Python the Hard Way
 
 ### <a id="conditions"></a>Conditional Statements
+- [Python Comparison Operators](https://www.w3schools.com/python/python_operators.asp) Scroll down to Comparison Operators
 - [Conditional and If statements](https://www.w3schools.com/python/python_conditions.asp)
 - Complete [Exercises 1-6](https://www.w3schools.com/python/exercise.asp?filename=exercise_ifelse1) of the PYTHON If...Else section
 
