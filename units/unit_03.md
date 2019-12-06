@@ -56,38 +56,6 @@ while i < 6: # as long as i (1) is less than 6, run the following
 else: # the moment, i is 6, the while statement goes from True to False
   print("i is no longer less than 6") # this will now print
 ```
-#### <a id="range"></a>for x in range(y)
-
-
-
-```python
-# Do something **y** amount of times.
-for x in range(3): # x is the counter
-  print("Hello")
-
-# outcome: each item of the list on a new line
-"Hello"
-"Hello"
-"Hello"
-```
-
-#### <a id="each"></a>for each
-
-Do something to each item in a list.
-
-```python
-# initialize a list with student names and save to a variable, students
-students = ["Al", "Anthony", "Lisa"]
-# the student variable only exists in this for loop. you cannot use "student" anywhere else
-# studentS is the list variable we created a bove
-for student in students: # for each item in the list, do this:
-  print(student)
-
-# outcome: each item of the list on a new line
-"Al"
-"Anthony"
-"Lisa"
-```
 
 Complete [Exercise 3](https://www.w3schools.com/python/exercise.asp?filename=exercise_loops3) of PYTHON Loops.
 
@@ -110,9 +78,27 @@ Do something for a set number of times.
 # x here is just a placeholder. it will do the counting for us
 for x in range(3): # do the following 3 times
   print("Hello!")
+
+# outcome: each item of the list on a new line
+"Al"
+"Anthony"
+"Lisa"
 ```
 
 Complete [Exercise 5](https://www.w3schools.com/python/exercise.asp?filename=exercise_loops1) of PYTHON Loops.
+
+#### <a id="each"></a>for each
+
+Do something to each item in a list.
+
+```python
+# initialize a list with student names and save to a variable, students
+students = ["Al", "Anthony", "Lisa"]
+# the student variable only exists in this for loop. you cannot use "student" anywhere else
+# studentS is the list variable we created a bove
+for student in students: # for each item in the list, do this:
+  print(student)
+```
 
 ### Lab 06: [Rock Paper Scissors](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab06-rock_paper_scissors.md)
 You don't need loops to complete the lab. BUT you will need them for the advance versions. Give it a shot and try to incorporate loops into your code.
