@@ -5,6 +5,7 @@
 - [while loop](#while)
 - [break](#break)
 - [else](#else)
+- [for x in range()](#range)
 - [for each](#each)
 - [continue](#continue)
 - [for x in range](#range)
@@ -54,6 +55,20 @@ while i < 6: # as long as i (1) is less than 6, run the following
   i += 1 # after printing i (1), add 1 to i (1). i is now 2
 else: # the moment, i is 6, the while statement goes from True to False
   print("i is no longer less than 6") # this will now print
+```
+#### <a id="range"></a>for x in range(y)
+
+
+
+```python
+# Do something **y** amount of times.
+for x in range(3): # x is the counter
+  print("Hello")
+
+# outcome: each item of the list on a new line
+"Hello"
+"Hello"
+"Hello"
 ```
 
 #### <a id="each"></a>for each
