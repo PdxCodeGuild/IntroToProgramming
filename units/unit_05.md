@@ -27,8 +27,8 @@ employee_availability = {
 # value: "Mon", ["Tues", "Wed", "Thurs"], ["Mon", "Tues", "Wed", "Thurs", "Fri"]
 
 # how many days will Al work in a year?
-# 365 days divided by the len of Al's list of availability (3)
-worked_days = 365 / len(employee_availability["al"])
+# 52 weeks in a year multiplied by the number of days worked each week (3)
+worked_days = 52 * len(employee_availability["al"])
 print(worked_days)
 
 ```
