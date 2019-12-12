@@ -80,9 +80,9 @@ for x in range(3): # do the following 3 times
   print("Hello!")
 
 # outcome: each item of the list on a new line
-"Al"
-"Anthony"
-"Lisa"
+Hello
+Hello
+Hello
 ```
 
 Complete [Exercise 5](https://www.w3schools.com/python/exercise.asp?filename=exercise_loops1) of PYTHON Loops.
@@ -97,7 +97,12 @@ students = ["Al", "Anthony", "Lisa"]
 # the student variable only exists in this for loop. you cannot use "student" anywhere else
 # studentS is the list variable we created a bove
 for student in students: # for each item in the list, do this:
-  print(student)
+  print(f"Hello {student}")
+ 
+ # outcome: each item of the list on a new line
+Hello Al
+Hello Anthony
+Hello Lisa
 ```
 
 ### Lab 06: [Rock Paper Scissors](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab06-rock_paper_scissors.md)
