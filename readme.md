@@ -24,6 +24,7 @@
 - [DiffChecker](https://www.diffchecker.com/)
   - great tool to compare 2 files of code side by side
 - [Additional Resources for Learning](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/resources.md)
+- [Future Intro Classes](https://www.eventbrite.com/o/pdx-code-guild-17959456298)
 
 ## <a id="unit-0"></a>Unit 0
 Welcome to Intro to Programming! To have a successful start in the class, please prep for the class by doing the following:
