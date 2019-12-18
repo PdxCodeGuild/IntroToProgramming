@@ -30,8 +30,7 @@ Welcome to Intro to Programming! To have a successful start in the class, please
 
 ### Download
 - latest version of Python
-  - [instructions for Mac](https://www.py4e.com/software-mac.php)
-  - [instructions for Windows](https://www.py4e.com/software-win.php)
+  - [instructions for Mac & Windows](https://learnpythonthehardway.org/python3/ex0.html)
 - [Atom](https://atom.io/)
   - Atom is where we will be writing our code. Some other alternatives are Sublime, PyCharm, and VSCode. However, we'll be using Atom in class.
 
