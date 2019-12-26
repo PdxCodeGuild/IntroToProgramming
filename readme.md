@@ -42,7 +42,7 @@ The terminal will be a vital tool for running our code. Complete [Lab 0](https:/
 
 #### Want a deeper dive?
 
-Get some additional practice by working through the introduction and exercises 1-6 of the [Command Line Crash Course](https://learnrubythehardway.org/book/appendixa.html).
+Get some additional practice by working through the introduction and exercises 1-6 of the [Command Line Crash Course](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course). Stop at **Super User**.
 
 #### Putting it together
 
