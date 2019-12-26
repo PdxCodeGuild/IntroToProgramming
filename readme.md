@@ -30,12 +30,11 @@
 Welcome to Intro to Programming! To have a successful start in the class, please prep for the class by doing the following:
 
 ### Download
-- latest version of Python
-  - [instructions for Mac & Windows](https://learnpythonthehardway.org/python3/ex0.html)
+- [latest version of Python](https://realpython.com/installing-python/)
 - [Atom](https://atom.io/)
   - Atom is where we will be writing our code. Some other alternatives are Sublime, PyCharm, and VSCode. However, we'll be using Atom in class.
 
-Can't or don't want to install software on your computer? Check out [Repl.it](repl.it). It's a cloud based editor and interpreter that will allow you to run Python without downloading any software.
+Can't or don't want to install software on your computer? Check out [Repl.it](repl.it). It's a cloud based editor and interpreter that will allow you to run Python without downloading any software. Please note, you will need to create an account. Check out this tutorial on [Youtube](https://www.youtube.com/watch?v=GSAf97ROes4).
 
 
 ### Practice
