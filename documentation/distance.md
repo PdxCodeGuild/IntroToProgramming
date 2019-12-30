@@ -10,33 +10,29 @@ After getting Sheri's approval to do Programming 101 remotely, you will receive 
 
   - dates
   - times
-  - Twitch link
+  - [Twitch link](https://www.twitch.tv/pdxcodeguild)
 
 ## Video
 
-We currently use Twitch to live stream lectures. Live streams will start and end with class times; usually 6:30pm - 9:30pm.
+We currently use [Twitch](https://www.twitch.tv/pdxcodeguild) to live stream lectures. Live streams will start and end with class times; usually 6:30pm - 9:30pm.
 
 ## Audio
 
 Twitch streams include audio but you might have an easier time listening with a headset.
 
-## Some helpful tips
-- subscribe to get alerted when streams start
-
-![alt text](/resources/twitch_notifications.PNG)
-
 ## Support
 
-### Questions
+- subscribe to get alerted when streams start
+- If you find that you have a question during class, please use the chatroom feature to the right of the video.
 
-If you find that you have a question during class, please use Slack to message Al Burns. [Please see this doc on how to use Slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/slack.md)
+![alt text](/resources/twitch_stream.PNG)
 
 ## Homework
 
-Homework should be turned in at the end of class via Slack ([Please see this doc on how to use Slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/slack.md)). If you need more time, the next day will be fine. Distance learners will send their homework via Slack direct message to Al:
+Homework should be turned in at the end of class via Slack ([Please see this doc on how to use Slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/slack.md)). If you need more time, the next day will be fine. Distance learners will send their homework via Slack direct message to Anthony Wallace:
 
 - Create a new direct message
-- search "Al"
-- his avatar is a cat playing the piano
+- search "Anthony Wallace"
+- his profile pic is him and his pup!
 
-![alt text](/resources/slack-al.png)
+![alt text](/resources/slack-anthony.png)
