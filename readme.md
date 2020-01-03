@@ -30,12 +30,8 @@
 Welcome to Intro to Programming! To have a successful start in the class, please prep for the class by doing the following:
 
 ### Download
-<<<<<<< HEAD
 - latest version of Python
   - [Instructions for Mac](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/documentation/python_mac.md)
-=======
-- [latest version of Python](https://realpython.com/installing-python/)
->>>>>>> 54ed629d53dc1d4ae04927dd6abb9468bf6ca2eb
 - [Atom](https://atom.io/)
   - Atom is where we will be writing our code. Some other alternatives are Sublime, PyCharm, and VSCode. However, we'll be using Atom in class.
 
