@@ -33,7 +33,7 @@ Welcome to Intro to Programming! To have a successful start in the class, please
 - latest version of Python
   - [Instructions for Windows](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/documentation/python_windows.md)
   - [Instructions for Mac](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/documentation/python_mac.md)
-  - [Instructions for all over operating systems](https://realpython.com/installing-python/)
+  - [Instructions for all other operating systems](https://realpython.com/installing-python/)
 - [Atom](https://atom.io/)
   - Atom is where we will be writing our code. Some other alternatives are Sublime, PyCharm, and VSCode. However, we'll be using Atom in class.
 
