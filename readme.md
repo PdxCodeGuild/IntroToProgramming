@@ -31,6 +31,7 @@ Welcome to Intro to Programming! To have a successful start in the class, please
 
 ### Download
 - latest version of Python
+  - [Instructions for Windows](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/documentation/python_windows.md)
   - [Instructions for Mac](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/documentation/python_mac.md)
   - [Instructions for all over operating systems](https://realpython.com/installing-python/)
 - [Atom](https://atom.io/)
