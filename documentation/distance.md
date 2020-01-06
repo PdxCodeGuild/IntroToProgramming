@@ -35,4 +35,4 @@ Homework should be turned in at the end of class via Slack ([Please see this doc
 - search "Anthony Wallace"
 - his profile pic is him and his pup!
 
-![alt text](/resources/slack-anthony.png)
+![alt text](/resources/slack-anthony.PNG)
