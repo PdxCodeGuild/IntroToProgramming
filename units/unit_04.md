@@ -15,7 +15,7 @@ The advance versions of Lab 8 review:
 - [while loops](https://www.w3schools.com/python/python_while_loops.asp)
 - [break](https://www.w3schools.com/python/ref_keyword_break.asp)
 
-#### Lab 08: [Guess the Number](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab08-guess_the_number.md)
+#### Lab 07: [Guess the Number](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab07-guess_the_number.md)
 
 ### <a id="string"></a>String Module
 - [official docs](https://docs.python.org/3/library/string.html)
@@ -30,6 +30,6 @@ letters = string.ascii_letters
 print(letters)
 # outcome: 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
 ```
-#### Lab 07: [Password Generator](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab07-password_generator.md)
+#### Lab 08: [Password Generator](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab08-password_generator.md)
 
 [Back to top](#top)
