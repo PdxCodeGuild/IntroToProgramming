@@ -12,6 +12,7 @@
 - [Unit 06](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/units/unit_06.md)
 
 ## Quick Links
+- [Class Videos](https://www.twitch.tv/pdxcodeguild/videos)
 - [Class Communication - Slack](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1)
   - for enrolled students only
   - [directions on how to use slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/slack.md)
