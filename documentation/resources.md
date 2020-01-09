@@ -6,6 +6,9 @@ Below are is a list of resources for additional study.
 - [Mac](https://www.codecademy.com/learn/learn-the-command-line)
 - [Mac & Windows](https://learnrubythehardway.org/book/appendixa.html)
 
+## Python in the command line
+- [Python Introduction by Django Girls](https://tutorial.djangogirls.org/en/python_introduction)
+
 ## Python
 [W3School](https://www.w3schools.com/python/python_intro.asp)
 
