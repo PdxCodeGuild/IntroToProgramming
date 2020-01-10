@@ -28,7 +28,7 @@ while i < 6: # as long as i (1) is less than 6, run the following
   i += 1 # after printing i (1), add 1 to i (1). i is now 2
 ```
 
-Complete [Exercise 1](https://www.w3schools.com/python/exercise.asp?filename=exercise_loops1) of PYTHON Loops.
+Complete [Exercise 1](https://www.w3schools.com/python/exercise.asp?filename=exercise_while_loops1) of PYTHON Loops.
 
 #### <a id="break"></a>break
 
@@ -46,7 +46,7 @@ while i < 6: # as long as i (1) is less than 6, run the following
 #### <a id="else"></a>else
 Do something while statement is true. When it is no longer true, do something else.
 
-Complete [Exercise 2](https://www.w3schools.com/python/exercise.asp?filename=exercise_loops2) of PYTHON Loops.
+Complete [Exercise 2](https://www.w3schools.com/python/exercise.asp?filename=exercise_while_loops2) of PYTHON Loops.
 
 ```python
 i = 1 # set variable i equal to the value of 1
@@ -57,7 +57,7 @@ else: # the moment, i is 6, the while statement goes from True to False
   print("i is no longer less than 6") # this will now print
 ```
 
-Complete [Exercise 3](https://www.w3schools.com/python/exercise.asp?filename=exercise_loops3) of PYTHON Loops.
+Complete [Exercise 3](https://www.w3schools.com/python/exercise.asp?filename=exercise_while_loops3) of PYTHON Loops.
 
 #### <a id="continue"></a>continue
 
@@ -68,7 +68,7 @@ for i in range(9):
     continue
   print(i)
 ```
-Complete [Exercise 4](https://www.w3schools.com/python/exercise.asp?filename=exercise_loops4) of PYTHON Loops.
+Complete [Exercise 4](https://www.w3schools.com/python/exercise.asp?filename=exercise_for_loops1) of PYTHON Loops.
 
 #### <a id="range"></a>for x in range()
 
@@ -85,7 +85,7 @@ Hello
 Hello
 ```
 
-Complete [Exercise 5](https://www.w3schools.com/python/exercise.asp?filename=exercise_loops1) of PYTHON Loops.
+Complete [Exercise 5](https://www.w3schools.com/python/exercise.asp?filename=exercise_for_loops2) of PYTHON Loops.
 
 #### <a id="each"></a>for each
 
@@ -104,6 +104,8 @@ Hello Al
 Hello Anthony
 Hello Lisa
 ```
+
+Complete [Exercise 6](https://www.w3schools.com/python/exercise.asp?filename=exercise_for_loops3) of PYTHON Loops.
 
 ### Lab 06: [Rock Paper Scissors](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab06-rock_paper_scissors.md)
 You don't need loops to complete the lab. BUT you will need them for the advance versions. Give it a shot and try to incorporate loops into your code.
