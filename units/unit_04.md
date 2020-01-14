@@ -6,12 +6,12 @@
 - [String Module](#string)
 
 ### Review of Week 1
-Lab 8 will review the following concepts:
+Lab 7 will review the following concepts:
 - [the random module](https://www.w3schools.com/python/module_random.asp)
 - [input()](https://www.w3schools.com/python/ref_func_input.asp)
 - [if/else](https://www.w3schools.com/python/python_conditions.asp)
 
-The advance versions of Lab 8 review:
+The advance versions of Lab 7 review:
 - [while loops](https://www.w3schools.com/python/python_while_loops.asp)
 - [break](https://www.w3schools.com/python/ref_keyword_break.asp)
 
