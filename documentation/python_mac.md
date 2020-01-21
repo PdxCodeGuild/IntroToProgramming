@@ -1,5 +1,5 @@
 # Installing Python 3 - Mac
-##### Start by heading to the Python [dowload page](https://learnrubythehardway.org/book/appendixa.html)
+##### Start by heading to the Python [dowload page](https://www.python.org/downloads/)
 
 Click the yellow download button to download the latest version of Python:
 ![alt text](/resources/python_mac/python1.png)
