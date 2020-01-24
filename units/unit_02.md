@@ -6,7 +6,7 @@
 - [Datatype: Lists](#lists)
 - [Modules](#modules)
 - [Integers & Operators](#integers)
-- [Conditional Statements](conditions)
+- [Conditional Statements](#conditions)
 
 ### <a id="lists"></a>Lists
 - [List Overview](https://www.w3schools.com/python/python_lists.asp)
