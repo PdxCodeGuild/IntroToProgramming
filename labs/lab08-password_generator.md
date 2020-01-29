@@ -1,5 +1,5 @@
 
-# Lab 7: Password Generator
+# Lab 8: Password Generator
 
 Let's generate a password ten characters long using a loop (`while` loop or `for` loop) and `random.choice`, this will be a string of random characters.
 
