@@ -16,19 +16,18 @@ While we don't expect you to complete all the advance versions of the labs, we e
 | [Unit 06](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/units/unit_06.md) | built-in functions, string methods, list methods, functions (review) | Lab [10](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab10-anagram_checker.md)
 
 ## Quick Links
-- [Class Videos](https://www.twitch.tv/pdxcodeguild/videos)
-- [Class Communication - Slack](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1)
-  - for enrolled students only
-  - [directions on how to use slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/slack.md)
-- [Command Prompt/Terminal/Powershell Cheatsheet](https://docs.google.com/spreadsheets/d/18WWrry7RI2zzJlTsUHQLCsElNjiVVuMGjowBKZ5DPH8/edit#gid=0)
-- [Stuck? Debugging Errors Guide](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/troubleshooting.md)
-- [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
-  - online debugging Tool
-- [Repl](https://repl.it)
-  - cloud based editor and interpreter
-- [DiffChecker](https://www.diffchecker.com/)
-  - great tool to compare 2 files of code side by side
-- [Additional Resources for Learning](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/resources.md)
-- [Future Intro Classes](https://www.eventbrite.com/o/pdx-code-guild-17959456298)
+Below is a list of helpful links.
+
+| Resource | Link | Comment |
+| ------- |----------| -----|
+Live stream | [Twich]((https://www.twitch.tv/pdxcodeguild/videos))| Only when class is in session
+Class Chatroom | [Slack](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1) | for enrolled Intro students only. [directions on how to use slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/slack.md)
+Terminal Cheatsheet | [Google Sheets](https://docs.google.com/spreadsheets/d/18WWrry7RI2zzJlTsUHQLCsElNjiVVuMGjowBKZ5DPH8/edit#gid=0) | Command Prompt/Terminal/Powershell
+Python Tutor | [Python Tutor](http://pythontutor.com/visualize.html#mode=edit) | online debugging tool
+Stuck? | [Debugging Errors Guide](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/troubleshooting.md) |
+Online Code Editor | [Repl](https://repl.it) | cloud based editor and interpreter
+Compare two code snippets | [DiffChecker](https://www.diffchecker.com/) | great tool to compare 2 files of code side by side|
+Learning Resources | [Guide](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/resources.md)
+Future Intro Classes | [Eventbrite](https://www.eventbrite.com/o/pdx-code-guild-17959456298) |
 
 [Back to top](#top)
