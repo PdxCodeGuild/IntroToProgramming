@@ -20,7 +20,7 @@ Below is a list of helpful links.
 
 | Resource | Link | Comment |
 | ------- |----------| -----|
-Live stream | [Twich]((https://www.twitch.tv/pdxcodeguild/videos))| Only when class is in session
+Live stream | [Twich](https://www.twitch.tv/pdxcodeguild/videos)| Only when class is in session
 Class Chatroom | [Slack](https://app.slack.com/client/TH5A28SJ0/CH6DE8QK1) | for enrolled Intro students only. [directions on how to use slack](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/documentation/slack.md)
 Terminal Cheatsheet | [Google Sheets](https://docs.google.com/spreadsheets/d/18WWrry7RI2zzJlTsUHQLCsElNjiVVuMGjowBKZ5DPH8/edit#gid=0) | Command Prompt/Terminal/Powershell
 Python Tutor | [Python Tutor](http://pythontutor.com/visualize.html#mode=edit) | online debugging tool
