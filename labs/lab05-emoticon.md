@@ -22,7 +22,7 @@ print(fruit)
 
 ## Advanced Version 1
 
-Use a `for` loop to generate 5 emoticons.
+Use a `for` loop to generate 5 random emoticons.
 
 ## Advanced Version 2
 
