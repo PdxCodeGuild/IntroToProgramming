@@ -46,12 +46,12 @@ Now we'll ask the user for the distance, the starting units, and the units to co
 
 You can think of the values for the conversions as elements in a matrix, where the rows will be the units you're converting from, and the columns will be the units you're converting to. Along the horizontal, the values will be 1 (1 meter is 1 meter, 1 foot is 1 foot, etc).
 
-(the table below only renders correctly with [Markdown Navigator](https://plugins.jetbrains.com/plugin/7896-markdown-navigator))
 
-| - |ft|mi|m|km|
-|-|-|-|-|
+
+|  | ft  | mi  | m  | km  |
+|---|----|----|----|---|
 |ft|1||0.3048||
-|mi||1|1609.34|
+|mi||1|1609.34||
 |m|1/0.3048|1/1609.34|1|1/1000|
 |km|||1000|1|
 
