@@ -6,8 +6,8 @@ Welcome to Intro to Programming! To have a successful start in the class, please
   - [Instructions for Windows](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/documentation/python_windows.md)
   - [Instructions for Mac](https://github.com/PdxCodeGuild/IntroToProgramming/tree/master/documentation/python_mac.md)
   - [Instructions for all other operating systems](https://realpython.com/installing-python/)
-- [Atom](https://atom.io/)
-  - Atom is where we will be writing our code. Some other alternatives are Sublime, PyCharm, and VSCode. However, we'll be using Atom in class.
+- [VS Code](https://code.visualstudio.com/download)
+  - Visual Studio Code (VS Code) is where we will be writing our code. Some other alternatives are Sublime, PyCharm, and Atom. However, we'll be using VS Code in class.
 
 Can't or don't want to install software on your computer? Check out [Repl.it](repl.it). It's a cloud based editor and interpreter that will allow you to run Python without downloading any software. Please note, you will need to create an account. Check out this tutorial on [Youtube](https://www.youtube.com/watch?v=GSAf97ROes4).
 
