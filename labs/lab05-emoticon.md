@@ -11,6 +11,8 @@ Let's generate emoticons by assembling a randomly choosing a set of eyes, a nose
 6. Randomly pick a mouth
 7. Assemble and display the emoticon
 
+You can find examples of emoticons [here](https://en.wikipedia.org/wiki/List_of_emoticons)
+
 
 ```python
 import random
