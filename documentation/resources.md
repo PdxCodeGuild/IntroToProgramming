@@ -10,6 +10,8 @@ Below are is a list of resources for additional study.
 - [Python Introduction by Django Girls](https://tutorial.djangogirls.org/en/python_introduction)
 
 ## Python
+[Intro to Python by Scrimba](https://scrimba.com/g/gpython) (free)
+
 [W3School](https://www.w3schools.com/python/python_intro.asp)
 
 - Breaks down basic Python concepts really well
@@ -18,7 +20,6 @@ Below are is a list of resources for additional study.
 
 - the first few chapters are free
 - This is what I used when I first started learning Python
-
 
 Python for Everybody by Freecodecamp ([video](https://www.youtube.com/watch?v=8DvywoWv6fI))
 - Freecodecamp is a great resource for web development
