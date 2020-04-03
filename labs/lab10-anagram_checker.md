@@ -4,7 +4,7 @@ Let's write an anagram checker.
 
 ## Anagram
 
-Two words are anagrams of each other if the letters of one can be rearranged to fit the other. e.g. `dormitory` and `dirty room`.
+Two words are anagrams of each other if the letters of one can be rearranged to fit the other. e.g. `dormitory` and `dirtyroom`.
 
 Write a program that lets the user enter two strings, and tells them if they are anagrams of each other.
 
