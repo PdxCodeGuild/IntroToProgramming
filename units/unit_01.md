@@ -2,16 +2,22 @@
 [Back to Syllabus](https://github.com/PdxCodeGuild/IntroToProgramming#top)
 
 ## Table of Contents
-- [Comments](#comments)
-- [variables](#variables)
-- [print() / f-strings](#print)
-- [Datatype: Strings](#strings)
-- [String Concatenation](#concatenating)
-- [input()](#input)
+- [Terminal / Command Prompt / Power Shell](#terminal)
 
-### <a id="comments"></a>Comments
-- [Quick overview](https://www.w3schools.com/python/python_comments.asp)
-- Complete [Exercise 2](https://shop.learncodethehardway.org/paid/python3/ex2.html) of Learn Python the Hard Way
+### <a id="terminal"></a>Terminal
+  | Windows | Mac/Linux | Action |
+  | --- | --- | --- |
+  | pwd | cd | What is my current directory? |
+  | dir | ls | What is in this folder? |
+  | cd \<folder_name\> | cd \<folder_name\> | Change directory to \<folder_name\> |
+  | cd .. | cd .. | Change directory to parent directory |
+  | cls | clear | Clear screen |
+  | mkdir \<folder_name\> | mkdir \<folder_name\> | Make directory \<folder_name\> |
+  | rmdir \<folder_name\> | rmdir \<folder_name\> | Remove directory \<folder_name\> |
+  | py \<file_name\> | python3 \<file_name\> | Run python file in terminal |
+  | ctrl + c | ctrl + c | Terminate program |
+  | py | python3 | Start python interpreter |
+- [Want more?](https://www.w3schools.com/python/python_comments.asp)
 
 ### <a id="variables"></a>Variables
 - Complete [Exercise 4](https://learnpythonthehardway.org/python3/ex4.html) of Learn Python the Hard Way
