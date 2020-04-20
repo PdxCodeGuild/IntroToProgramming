@@ -16,6 +16,7 @@
 
 ### <a id="variables"></a>Variables
 - Complete [Exercise 4](https://learnpythonthehardway.org/python3/ex4.html) of Learn Python the Hard Way
+- [Quiz - Variables](https://docs.google.com/forms/d/1v-tghS7GvDnSCypUbola929_DQWiQG5K_p-zWgWN-bE/viewform?edit_requested=true)
 
 ### <a id="print"></a>print()  / f-strings
 - [Quick overview](https://www.w3schools.com/python/ref_func_print.asp)
@@ -25,6 +26,8 @@
 - [Quick overview](https://www.w3schools.com/python/python_strings.asp)
 - Complete [Exercise 6](https://learnpythonthehardway.org/python3/ex6.html) of Learn Python the Hard Way
 
+### Quizzes
+- [print & Strings](https://docs.google.com/forms/d/1PFc1P77FJpQImQ3GKxnKFzYcK_iGSX7RZAzWSN2i3WM/viewform?edit_requested=true)
 ### <a id="strings"></a>String Concatenation
 To concatenate, or combine, two strings you can use the + operator.
 
