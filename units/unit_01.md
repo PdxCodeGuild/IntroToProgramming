@@ -29,6 +29,8 @@
 
 ### Quizzes
 - [print() & Strings](https://docs.google.com/forms/d/1PFc1P77FJpQImQ3GKxnKFzYcK_iGSX7RZAzWSN2i3WM/viewform?edit_requested=true)
+- [fstrings](https://forms.gle/56GKErtdRAYPFquh9)
+
 ### <a id="strings"></a>String Concatenation
 To concatenate, or combine, two strings you can use the + operator.
 
