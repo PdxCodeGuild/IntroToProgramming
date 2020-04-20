@@ -27,7 +27,7 @@
 - Complete [Exercise 6](https://learnpythonthehardway.org/python3/ex6.html) of Learn Python the Hard Way
 
 ### Quizzes
-- [print & Strings](https://docs.google.com/forms/d/1PFc1P77FJpQImQ3GKxnKFzYcK_iGSX7RZAzWSN2i3WM/viewform?edit_requested=true)
+- [print() & Strings](https://docs.google.com/forms/d/1PFc1P77FJpQImQ3GKxnKFzYcK_iGSX7RZAzWSN2i3WM/viewform?edit_requested=true)
 ### <a id="strings"></a>String Concatenation
 To concatenate, or combine, two strings you can use the + operator.
 
