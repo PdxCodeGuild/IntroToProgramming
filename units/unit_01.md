@@ -19,7 +19,8 @@
 - [Quiz - Variables](https://docs.google.com/forms/d/1v-tghS7GvDnSCypUbola929_DQWiQG5K_p-zWgWN-bE/viewform?edit_requested=true)
 
 ### <a id="print"></a>print()  / f-strings
-- [Quick overview](https://www.w3schools.com/python/ref_func_print.asp)
+- [print() - Quick overview](https://www.w3schools.com/python/ref_func_print.asp)
+- [fstring() overview](https://realpython.com/python-f-strings/#f-strings-a-new-and-improved-way-to-format-strings-in-python)
 - Complete [Exercise 5](https://learnpythonthehardway.org/python3/ex5.html) of Learn Python the Hard Way
 
 ### <a id="strings"></a>Datatype: Strings
