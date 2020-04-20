@@ -12,6 +12,7 @@
 ### <a id="comments"></a>Comments
 - [Quick overview](https://www.w3schools.com/python/python_comments.asp)
 - Complete [Exercise 2](https://shop.learncodethehardway.org/paid/python3/ex2.html) of Learn Python the Hard Way
+- [Quiz - Comments](https://docs.google.com/forms/d/1y5x15V0XnH3TtDemyq-Gnq6zxFiscr2Kr2PztM9rPjA/viewform?edit_requested=true)
 
 ### <a id="variables"></a>Variables
 - Complete [Exercise 4](https://learnpythonthehardway.org/python3/ex4.html) of Learn Python the Hard Way
