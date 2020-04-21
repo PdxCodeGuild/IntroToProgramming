@@ -31,7 +31,7 @@ for fruit in fruits:
 ```
 
 ### <a id="modules"></a>Modules
-Modules are a Python object that are sources of code; think of if as a library of information. It is a file containing a set of functions you want to include in your application. (For a list of all modules, you can check out the offical [Python docs](https://docs.python.org/3/py-modindex.html)). For this lesson, we will be looking at the [random module](https://pynative.com/python-random-module/). And specifically, we will be looking at the choice() function of the random module: [random.choice()](https://www.w3schools.com/python/ref_random_choice.asp). Please see the example below:
+Modules are a Python object that are sources of related code; think of if as a library of information. A code library, if you will! It is a file containing a set of functions you want to include in your application. (For a list of all modules, you can check out the offical [Python docs](https://docs.python.org/3/py-modindex.html)). For this lesson, we will be looking at the [random module](https://pynative.com/python-random-module/). And specifically, we will be looking at the choice() function of the random module: [random.choice()](https://www.w3schools.com/python/ref_random_choice.asp). Please see the example below:
 
 ```python
 # include the random module in our file
@@ -48,9 +48,12 @@ chosen_fruit = random.choice(fruits)
 # print the value of variable chosen_fruit
 print(chosen_fruit)
 ```
+
 Let's practice random.choice() in the next lab.
 
 ### Lab 03: [Magic 8 Ball](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab03-magic_8_ball.md)
+
+[Quiz - Modules](https://forms.gle/Ui3UrdgncTcFfn9Y6)
 
 ---
 
