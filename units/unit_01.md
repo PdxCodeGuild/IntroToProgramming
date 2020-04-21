@@ -55,6 +55,7 @@ print(c) # outcome: "Hello World"
 ### <a id="input"></a>input()
 - [Quick overview](https://www.w3schools.com/python/ref_func_input.asp)
 - [Quiz - input()](https://forms.gle/HXFK2HZ58ApGLN6t9)
+
 Example 1:
 ```python
 # prints a question to the user
