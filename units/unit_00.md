@@ -21,4 +21,4 @@ Get some additional practice by working through the introduction and exercises 1
 
 ## Putting it together
 
-On the first day of class, you will see how Atom and the terminal work together to run your python code. If you'd like to see for yourself, please see [Lab 0](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab00-interpreter.md)
+On the first day of class, you will see how Visual Studio Code and the terminal work together to run your python code. If you'd like to see for yourself, please see [Lab 0](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab00-interpreter.md)
