@@ -62,6 +62,10 @@ Let's practice random.choice() in the next lab.
 - [Operators Overview](https://www.w3schools.com/python/python_operators.asp)
 - Complete [Exercise 3](https://learnpythonthehardway.org/python3/ex3.html) of Learn Python the Hard Way
 
+#### Quizes
+- [Integers & Arithmetic Operators](https://forms.gle/fHcU5oR6Z5WvJtQa8)
+- [Assignment Operators](https://forms.gle/GKHzieGUhVD6j2XF6)
+
 ### <a id="conditions"></a>Conditional Statements
 - [Python Comparison Operators](https://www.w3schools.com/python/python_operators.asp) Scroll down to Comparison Operators
 - [Conditional and If statements](https://www.w3schools.com/python/python_conditions.asp)
