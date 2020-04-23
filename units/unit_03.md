@@ -28,7 +28,8 @@ while i < 6: # as long as i (1) is less than 6, run the following
   i += 1 # after printing i (1), add 1 to i (1). i is now 2
 ```
 
-Complete [Exercise 1](https://www.w3schools.com/python/exercise.asp?filename=exercise_while_loops1) of PYTHON Loops.
+- Complete [Exercise 1](https://www.w3schools.com/python/exercise.asp?filename=exercise_while_loops1) of PYTHON Loops.
+- [Quiz: While Loop](https://forms.gle/LYFnGv7J5M89t1aU6)
 
 #### <a id="break"></a>break
 
