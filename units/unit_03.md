@@ -58,7 +58,8 @@ else: # the moment, i is 6, the while statement goes from True to False
   print("i is no longer less than 6") # this will now print
 ```
 
-Complete [Exercise 3](https://www.w3schools.com/python/exercise.asp?filename=exercise_while_loops3) of PYTHON Loops.
+- Complete [Exercise 3](https://www.w3schools.com/python/exercise.asp?filename=exercise_while_loops3) of PYTHON Loops.
+- [Quiz - While Loop]()
 
 #### <a id="continue"></a>continue
 
@@ -106,7 +107,8 @@ Hello Anthony
 Hello Lisa
 ```
 
-Complete [Exercise 6](https://www.w3schools.com/python/exercise.asp?filename=exercise_for_loops3) of PYTHON Loops.
+- Complete [Exercise 6](https://www.w3schools.com/python/exercise.asp?filename=exercise_for_loops3) of PYTHON Loops.
+- [Quiz: For Loops](https://forms.gle/KfDEbvi1HkzZuCb86)
 
 ### Lab 06: [Rock Paper Scissors](https://github.com/PdxCodeGuild/IntroToProgramming/blob/master/labs/lab06-rock_paper_scissors.md)
 You don't need loops to complete the lab. BUT you will need them for the advance versions. Give it a shot and try to incorporate loops into your code.
