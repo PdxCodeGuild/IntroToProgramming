@@ -1,4 +1,18 @@
+<div align="center">
+
+## *******************************************************
+
+## This syllabus is **deprecated**.
+
+### Intro to Programming has become Programming 101 and Programming 102. 
+
+### **Contact your instructor** for the link to the correct syllabus. 
+***
+## *******************************************************
+</div>
+
 ## <a id="top"></a>Unit 04
+
 [Back to Syllabus](https://github.com/PdxCodeGuild/IntroToProgramming#top)
 
 ## Table of Contents

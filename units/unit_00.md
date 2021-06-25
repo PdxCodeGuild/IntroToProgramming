@@ -1,4 +1,19 @@
+
+<div align="center">
+
+## *******************************************************
+
+## This syllabus is **deprecated**.
+
+### Intro to Programming has become Programming 101 and Programming 102. 
+
+### **Contact your instructor** for the link to the correct syllabus. 
+***
+## *******************************************************
+</div>
+
 # <a id="unit-0"></a>Unit 0
+
 Welcome to Intro to Programming! To have a successful start in the class, please prep for the class by doing the following:
 
 ## Download

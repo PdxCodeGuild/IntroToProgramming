@@ -1,14 +1,20 @@
+<div align="center">
+
+## *******************************************************
+
+## This syllabus is **deprecated**.
+
+### Intro to Programming has become Programming 101 and Programming 102. 
+
+### **Contact your instructor** for the link to the correct syllabus. 
+***
+## *******************************************************
+</div>
+
 # Lab 1: Hello!
 
 
-<div align="center">
 
-## !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-## **Stop!**  This syllabus is **deprecated** and has not been updated since April 29, 2020. Intro to Programming has become Programming 101 and Programming 102. Contact your instructor for the link to the correct syllabus. 
-***
-## !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-</div>
 
 - [Back to Syllabus](https://github.com/PdxCodeGuild/IntroToProgramming#top)
 - [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
