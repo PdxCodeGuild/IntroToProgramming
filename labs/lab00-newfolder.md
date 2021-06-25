@@ -1,3 +1,16 @@
+<div align="center">
+
+## *******************************************************
+
+## This syllabus is **deprecated**.
+
+### Intro to Programming has become Programming 101 and Programming 102. 
+
+### **Contact your instructor** for the link to the correct syllabus. 
+***
+## *******************************************************
+</div>
+
 # Lab 00: Navigating the Terminal <a id="top"></a>
 
 - [Back to Syllabus](https://github.com/PdxCodeGuild/IntroToProgramming#top)
