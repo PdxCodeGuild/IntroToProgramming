@@ -1,6 +1,12 @@
 
 # Lab 12: Unit Converter
 
+## !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+## **Stop!**  This syllabus is **deprecated** and has not been updated since April 29, 2020. Intro to Programming has become Programming 101 and Programming 102. Contact your instructor for the link to the correct syllabus. 
+***
+## !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 This lab will involve writing a program that allows the user to convert a number between units.
 
 ## Version 1

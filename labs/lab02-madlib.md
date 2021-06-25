@@ -1,4 +1,10 @@
 # Lab 2: Mad Libs
+
+## !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+## **Stop!**  This syllabus is **deprecated** and has not been updated since April 29, 2020. Intro to Programming has become Programming 101 and Programming 102. Contact your instructor for the link to the correct syllabus. 
+***
+## !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ---
 Quicklinks
 - [Intro to Programming](https://github.com/PdxCodeGuild/IntroToProgramming)

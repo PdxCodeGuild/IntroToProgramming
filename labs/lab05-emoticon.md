@@ -1,6 +1,12 @@
 
 # Lab 5: Random Emoticon Generator
 
+## !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+## **Stop!**  This syllabus is **deprecated** and has not been updated since April 29, 2020. Intro to Programming has become Programming 101 and Programming 102. Contact your instructor for the link to the correct syllabus. 
+***
+## !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 Let's generate emoticons by assembling a randomly choosing a set of eyes, a nose, and a mouth.
 
 1. Define a list of eyes

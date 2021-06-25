@@ -1,5 +1,11 @@
 # Lab 1: Turtle
 
+## !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+## **Stop!**  This syllabus is **deprecated** and has not been updated since April 29, 2020. Intro to Programming has become Programming 101 and Programming 102. Contact your instructor for the link to the correct syllabus. 
+***
+## !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ## Explanation
 
 Turtle is a python `module` that allows us to move a virtual turtle around the screen using programming statements. This turtle has a position and a heading.
